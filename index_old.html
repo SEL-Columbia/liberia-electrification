@@ -1,0 +1,173 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+
+    
+
+    <meta charset="UTF-8" />
+    <title>Liberia Energy Planning</title>
+    <link rel="stylesheet" href="fonts/fonts.css" type="text/css" />
+    <link rel="stylesheet" href="css/map.css" type="text/css" />
+    <link rel="stylesheet" href="css/style.css" type="text/css" />
+    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
+</head>
+<body>
+	  
+	<h1 id="header"align="center">
+		<a href="http://modi.mech.columbia.edu/" id="logo">
+			<img src="img/modi_lab.png" style="width:79px;height:30px">
+		</a>
+		Liberia Energy Planning
+		<span class="pull-right" style="font-size: 18px;">
+            <a href="about.html">About&nbsp;&nbsp;&nbsp;</a>
+        </span>
+	</h1>
+
+	<div id="content">
+        
+		<p id="about">
+			Disclaimer:
+			The boundaries and names shown and the designation used on this map do
+			not imply official endorsement or acceptance by the United Nations.
+			<span class="pull-right">Copyright 2012. Modi Research Group&nbsp;</span>
+        </p>
+    </div>
+
+    <div id="projects" class="layers">
+	   <a data-control="layer" href="#current">Current Scenario</a>
+	   <a data-control="layer" href="#year5">5 Year Scenario</a>
+	   <a data-control="layer" href="#year10">10 Year Scenario</a>
+       <a data-control="layer" href="#year20">20 Year Scenario</a><br>
+       <a data-control="layer" href="#year30">30 Year Scenario</a>
+       <!--<a data-control="layer" href="#energy">Estimated Energy Use for Agriculture</a>
+	   <a data-control="layer" href="#cropyield">Estimated Total Crop Yield </a>
+	   <a data-control="layer" href="#extrayield">Estimated Extra Crop Yield </a>
+       -->
+    </div>
+    <div id="map" class="map">
+    </div>
+    
+    <!-- External libraries and site script -->
+    <script src="ext/jquery.min.js"></script>
+    <script src="ext/modestmaps.min.js"></script>
+    <script src="ext/wax/wax.mm.js"></script>
+    <script src="ext/wax/wax.ext.js"></script>
+    <script src="ext/easey.js"></script>
+    <script src="ext/mmg.js"></script>
+    <script src="script.js"></script>
+    
+    <!-- Site configuration -->
+    <script type="text/javascript">
+    
+        // Make a new map in the #map element
+        var main = Map('map', {
+            // Specify the MapBox API url
+            api: 'http://a.tiles.mapbox.com/v3/mapbox.mapbox-light.jsonp',
+            center: {
+                lat: 6.48452,      // Intial center point and zoom level.
+                lon: -9.3658,      // To find coordinates and zoom levels
+                zoom: 7                 // try: http://www.getlatlon.com
+            },
+            zoomRange: [5, 12],             // Limit zooming on the map to these levels
+            features: [                     // Map features (see readme.md)
+                'zoomwheel',
+                'movetips',
+                'zoombox',
+                'zoompan',
+                'legend',
+                'share'
+            ]
+        });
+        
+        // Make a new layer switch for the map named `main`. Each layer gets
+        // a name and an object of settings. The layers are bound by name to
+        // the href hash of an element with a `data-control='layer'`, ex:
+        // <a data-control="layer" href="#building">Building Permits, 2011</a>
+
+        main.layers({
+			current: {                     // The name of the layer
+                // If api is specified, this map layer will be displayed
+                // on top of the base map specified when the map was initialized
+                api: 'http://a.tiles.mapbox.com/v3/modilabs.Liberia-Energy-Planning-basecase.jsonp',
+    			
+                center: {                   // Optionally reposition the map.
+                    lat: 6.48452,   // New center point and zoom level
+                    lon: -9.3658,   // for the map. Specific either
+                    zoom: 7,               // lat and lon, zoom, or both.
+                    ease: 500               // Optional time to animimate moving
+                }                           // the map in milliseconds.
+            },
+            year5: {                     // The name of the layer
+                // If api is specified, this map layer will be displayed
+                // on top of the base map specified when the map was initialized
+                api: 'http://a.tiles.mapbox.com/v3/modilabs.Liberia-NP-Output-5yr.jsonp',
+    			
+                center: {                   // Optionally reposition the map.
+                    lat: 6.48452,   // New center point and zoom level
+                    lon: -9.3658,   // for the map. Specific either
+                    zoom: 8,               // lat and lon, zoom, or both.
+                    ease: 500               // Optional time to animimate moving
+                }                           // the map in milliseconds.
+            },
+
+			year10: {                     // The name of the layer
+    			// If api is specified, this map layer will be displayed
+    			// on top of the base map specified when the map was initialized
+    			api: 'http://a.tiles.mapbox.com/v3/modilabs.Liberia-NP-Output-10yr-run.jsonp',
+	
+    			center: {                   // Optionally reposition the map.
+        			lat: 6.48452,   // New center point and zoom level
+        			lon: -9.3658,   // for the map. Specific either
+        			zoom: 8,               // lat and lon, zoom, or both.
+        			ease: 500               // Optional time to animimate moving
+    				}                           // the map in milliseconds.
+				},
+			year20: {                     // The name of the layer
+                // If api is specified, this map layer will be displayed
+                // on top of the base map specified when the map was initialized
+                api: 'http://a.tiles.mapbox.com/v3/modilabs.Liberia-NP-Output-20yr.jsonp',
+    			
+                center: {                   // Optionally reposition the map.
+                    lat: 6.48452,   // New center point and zoom level
+                    lon: -9.3658,   // for the map. Specific either
+                    zoom: 8,               // lat and lon, zoom, or both.
+                    ease: 500               // Optional time to animimate moving
+                }                           // the map in milliseconds.
+            },
+            year30: { 
+                api: 'http://a.tiles.mapbox.com/v3/modilabs.Liberia_Electricity_Planning.jsonp',
+                center: { zoom: 8,lat: 6.48452, lon: -9.3658, ease: 1000 }
+            },
+            /*energy: { 
+                api: 'http://a.tiles.mapbox.com/v3/modilabs.india-agriculture-total-energy-use-per-year.jsonp',
+                center: { zoom: 5,lat: 20, lon: 77, ease: 1000 }
+             },
+			cropyield: { 
+                api: 'http://a.tiles.mapbox.com/v3/modilabs.india-agriculture-total-crop-yield-updated.jsonp',
+                center: { zoom: 5,lat: 20, lon: 77, ease: 1000 }
+             },
+			extrayield: { 
+                api: 'http://a.tiles.mapbox.com/v3/modilabs.india-agriculture-calculated-crop-index.jsonp',
+                center: { zoom: 5,lat: 20, lon: 77, ease: 1000 }
+             }*/
+            
+         });
+   
+		// SIMULATE CLICKING THE FIRST LAYER ON
+		$(function () {
+			$('#projects a:first').click();
+		});
+		//Google Analytics feed 
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-83697-20']);
+		  _gaq.push(['_trackPageview']);
+
+		  (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+    </script>
+</body>
+</html>

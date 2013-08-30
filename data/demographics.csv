@@ -1,0 +1,968 @@
+PROJ.4 +proj=utm +zone=29 +ellps=WGS84 +datum=WGS84 +units=m +no_defs,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Type,Name,Population,X,Y,COUNTY_08,DIST_08,CLAN_08,DEMAND_MW,HOSP_MAIN_LOC,HOSP_ALT-NAME,Clinics,ClinDem,HC,HCDem,SumHlthDem,Pri_Schools,PriSchDem,Sec_Schools,SecSchDem,Both_PriSec,BothPriSecDem,SumEduDem,demand (household) > target household penetration rate,FullProdDem,demand (productive) > projected productive demand,demand (social infrastructure) > projected health facility demand per year,demand (social infrastructure) > projected education facility demand per year
+Settlement,Monrovia,1021764,307112.8966,693992.671,Montserra,Greater Monrovia,Monrovia,,,,9,18000,2,25000,43000,224,56000,14,7000,151,90600,153600,0.6,0,0,185843.5221,372827.5156
+Settlement,Buchannan,54245,386510.1057,650128.6998,Grand Bassa,Neekreen,Gonnigar,,,,5,10000,1,12500,22500,41,10250,0,0,20,12000,22250,0.6,0,0,97243.70344,54006.58998
+Settlement,Gbarnga,43713,446933.4555,774955.0537,Bong,Jorquelleh,Jorquelle,,,,2,4000,1,12500,16500,34,8500,1,500,16,9600,18600,0.6,0,0,71312.04919,45147.08196
+Settlement,Ganta,42077,501542.0483,799219.3205,Nimba,Garr-Bain,Bain,,,,4,8000,0,0,8000,2,500,3,1500,26,15600,17600,0.6,0,0,34575.539,42719.81949
+Settlement,Kakata City,34608,351028.5634,723834.0169,Margibi,Kakata,Benda,,,,0,0,0,0,0,8,2000,0,0,7,4200,6200,0.6,0,0,0,15049.02732
+Settlement,Zwedru,25349,596097.2741,670757.1272,Grand Gedeh,Tchien,Tchien Menyea,,,,1,2000,0,0,2000,20,5000,4,2000,7,4200,11200,0.6,0,0,8643.88475,27185.33968
+Settlement,Harbel,25309,351845.7031,698220.0937,Margibi,Firestone,Firestone,,,,0,0,0,0,0,1,250,1,500,0,0,750,0.6,0,0,0,1820.446853
+Settlement,Harper,23517,641804.6391,484055.6811,Maryland,Harper,Harper City,,,,1,2000,0,0,2000,13,3250,1,500,6,3600,7350,0.6,0,0,8643.88475,17840.37916
+Settlement,Pleebo / Bleebo,23464,647156.7072,507342.6033,Maryland,Pleebo/Sodoken,Pleebo/Gbolorbo,,,,1,2000,1,12500,14500,17,4250,4,2000,7,4200,10450,0.6,0,0,62668.16444,25364.89282
+Settlement,Foya Town,20569,366907.0236,924166.6069,Lofa,Foya,Luankollie,,,,1,2000,0,0,2000,3,750,0,0,3,1800,2550,0.6,0,0,8643.88475,6189.519302
+Settlement,Voinjama,15569,417178.9899,931184.2512,Lofa,Voinjama,Upper Workor,,,,1,2000,0,0,2000,11,2750,1,500,4,2400,5650,0.6,0,0,8643.88475,13714.03296
+Settlement,Tubmanburg,14576,299500.322,759079.7307,Bomi,Senjeh,LowerToga,,,,2,4000,0,0,4000,12,3000,1,500,1,600,4100,0.6,0,0,17287.7695,9951.776132
+Settlement,Saclepea,13790,517837.3,769841.8075,Nimba,Wee-Gbehyi-Mahn,Ylan,,,,0,0,2,25000,25000,7,1750,2,1000,14,8400,11150,0.6,0,0,108048.5594,27063.97655
+Settlement,Greenville-Congo Town,13370,495870.8497,553963.57,Sinoe,Greenville,Greenville,,,,0,0,0,0,0,6,1500,0,0,10,6000,7500,0.6,0,0,0,18204.46853
+Settlement,Sanniquellie,11854,530612.944,814155.3973,Nimba,Sanniquellie Mahn,Sehyi,,,,1,2000,0,0,2000,8,2000,1,500,8,4800,7300,0.6,0,0,8643.88475,17719.01604
+Settlement,Bong mines,10166,349368.6108,751384.6689,Bong,Fuamah,Zaweakomu,,,,0,0,0,0,0,9,2250,0,0,3,1800,4050,0.6,0,0,0,9830.413008
+Settlement,Suakoko,9797,434554.8401,773495.9972,Bong,Suakoko,Suakoko,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.6,0,0,0,0
+Settlement,Geyway,9438,301104.4647,708141.9562,Montserra,St. Paul River,Geyway,,,,2,4000,0,0,4000,2,500,4,2000,2,1200,3700,0.6,0,0,17287.7695,8980.871143
+Settlement,Tappita City,9260,515185.1026,717452.4391,Nimba,Doe,Gbear,,,,2,4000,0,0,4000,4,1000,0,0,5,3000,4000,0.6,0,0,17287.7695,9709.049885
+Settlement,Ziah Town,9253,626224.5868,638007.446,Grand Gedeh,Konobo,Upper Gbillibo,,,,0,0,1,12500,12500,3,750,1,500,0,0,1250,0.6,0,0,54024.27969,3034.078089
+Settlement,Kungbor,8141,326100,845482,Gbarpolu,Kongba,Jawajeh,,,,1,2000,0,0,2000,2,500,0,0,0,0,500,0.6,0,0,8643.88475,1213.631236
+Settlement,Karnplay,7989,555112.3749,803825.706,Nimba,Gbehlay-Geh,Gbehlay,,,,0,0,1,12500,12500,2,500,0,0,6,3600,4100,0.6,0,0,54024.27969,9951.776132
+Settlement,Bahn,7719,530880.3132,776772.5704,Nimba,Zoe-Gbao,Zoe,,,,1,2000,1,12500,14500,5,1250,0,0,7,4200,5450,0.6,0,0,62668.16444,13228.58047
+Settlement,Harbel-Cotton Tree,7393,352538,697980,Margibi,Firestone,Cotton Tree,,,,0,0,0,0,0,4,1000,0,0,2,1200,2200,0.6,0,0,0,5339.977437
+Settlement,Airfield,7284,333860.5906,891869.9708,Lofa,Vahun,Central Guma,,,,0,0,1,12500,12500,1,250,0,0,0,0,250,0.6,0,0,54024.27969,606.8156178
+Settlement,Yekepa,7176,550528.9453,837042.5033,Nimba,Yarmein,Gbar,,,,1,2000,0,0,2000,6,1500,0,0,7,4200,5700,0.6,0,0,8643.88475,13835.39609
+Settlement,Kpalla-Kpalla/Dakulyla,6844,299066.7908,710329.5656,Montserra,St. Paul River,Kpalla,,,,1,2000,0,0,2000,3,750,1,500,2,1200,2450,0.6,0,0,8643.88475,5946.793054
+Settlement,Zolu,6716,303455.4285,708434.8353,Montserra,St. Paul River,Zolu,,,,0,0,0,0,0,4,1000,1,500,1,600,2100,0.6,0,0,0,5097.251189
+Settlement,Kanweaken,6430,609339.1411,578492.9197,River Gee,Gbeapo,Saykliken,,,,1,2000,1,12500,14500,4,1000,0,0,3,1800,2800,0.6,0,0,62668.16444,6796.334919
+Settlement,Yogbo,6400,395568.3847,753022.494,Bong,Salala,Konowolol,,,,1,2000,0,0,2000,3,750,0,0,3,1800,2550,0.6,0,0,8643.88475,6189.519302
+Settlement,Kolahun,5893,380439.6486,917672.8811,Lofa,Kolahun,Tahamba,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.6,0,0,0,1456.357483
+Settlement,Harbel-Cotton Tree,5668,348714.8828,691416.0937,Margibi,Mambah Kaba,Charsville,,,,0,0,0,0,0,9,2250,0,0,8,4800,7050,0.6,0,0,0,17112.20042
+Settlement,Zorzor,5577,452604.9508,859859.1748,Lofa,Zorzor,Gizima,,,,0,0,0,0,0,2,500,1,500,2,1200,2200,0.6,0,0,0,5339.977437
+Settlement,Kpayeakwe,5360,391277.423,789093.2358,Gbarpolu,Gounwolaila,Gou,,,,1,2000,0,0,2000,1,250,0,0,0,0,250,0.6,0,0,8643.88475,606.8156178
+Settlement,Morlorkwe,5195,373740,795176,Gbarpolu,Bokomu,Lower Bok,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.6,0,0,0,1456.357483
+Settlement,Salala,4862,377577.4283,745956.513,Bong,Salala,Nyaforque,,,,0,0,0,0,0,2,500,0,0,3,1800,2300,0.3,0,0,0,5582.703684
+Settlement,Saynodee,4851,294133.567,772614.567,Gbarpolu,Gbarma,Gbarma,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Gbarqoita,4454,332652,786716,Gbarpolu,Bopolu,Bondi Man,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Barkedu,4354,430082.3138,916710.3314,Lofa,Quardu Boundi,Quardu,,,,1,2000,0,0,2000,0,0,0,0,1,600,600,0.3,0,0,8643.88475,1456.357483
+Settlement,Towah,4323,563636,688709,Grand Gedeh,Gbao,Jaladaye,,,,0,0,1,12500,12500,3,750,1,500,0,0,1250,0.3,0,0,54024.27969,3034.078089
+Settlement,Yangaya A,3872,305363.3984,787699.9658,Gbarpolu,Gbarma,Yangaya,,,,1,2000,0,0,2000,0,0,0,0,1,600,600,0.3,0,0,8643.88475,1456.357483
+Settlement,Salayia,3768,444974.1222,841956.8116,Lofa,Salayea,Palama,,,,1,2000,0,0,2000,2,500,0,0,1,600,1100,0.3,0,0,8643.88475,2669.988718
+Settlement,Baloma A,3751,392783.0992,836515.6034,Gbarpolu,Belleh,Bade,,,,0,0,0,0,0,1,250,0,0,1,600,850,0.3,0,0,0,2063.173101
+Settlement,Fish Town City,3566,624125.0723,574775.7558,River Gee,Potupo,Kayken,,,,0,0,1,12500,12500,2,500,0,0,3,1800,2300,0.3,0,0,54024.27969,5582.703684
+Settlement,Gbilita A,3514,361032.4392,807522.9525,Gbarpolu,Bopolu,Koninga,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Kai,3477,300261.912,708847.8768,Montserra,St. Paul River,Kai,,,,0,0,0,0,0,1,250,2,1000,0,0,1250,0.3,0,0,0,3034.078089
+Settlement,Karloken,3452,640107.9765,531026.9525,Maryland,Karluway#1,Gedebo,,,,0,0,1,12500,12500,4,1000,0,0,2,1200,2200,0.3,0,0,54024.27969,5339.977437
+Settlement,Borkeza,3227,450012.5368,874233.989,Lofa,Zorzor,Zeayeama,,,,1,2000,0,0,2000,1,250,0,0,0,0,250,0.3,0,0,8643.88475,606.8156178
+Settlement,Totaquelleh A,3207,345457,779801,Gbarpolu,Bopolu,Bondi Man,,,,1,2000,0,0,2000,1,250,0,0,0,0,250,0.3,0,0,8643.88475,606.8156178
+Settlement,Geata,2977,425252.9163,761480.0465,Bong,Yeallequelleh,Garyea,,,,1,2000,0,0,2000,0,0,0,0,1,600,600,0.3,0,0,8643.88475,1456.357483
+Settlement,Bopolu,2940,335637.0421,781409.8284,Gbarpolu,Bopolu,Bondi Man,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Banlah,2929,490171.6324,757918.1587,Nimba,Meinpea-Mahn,Zahn,,,,0,0,0,0,0,2,500,0,0,0,0,500,0.3,0,0,0,1213.631236
+Settlement,Toe,2842,548787.6712,708232.2356,Grand Gedeh,B'hai,B'Hai-Nicko,,,,1,2000,0,0,2000,1,250,0,0,1,600,850,0.3,0,0,8643.88475,2063.173101
+Settlement,Wayzohn Community,2727,412711.4874,679408.1336,Grand Bassa,District # 3,Gaye Peter,,,,1,2000,0,0,2000,2,500,0,0,0,0,500,0.3,0,0,8643.88475,1213.631236
+Settlement,Juluken # 1,2710,617244,557387,Maryland,Whojah,Dufu,,,,1,2000,0,0,2000,1,250,0,0,1,600,850,0.3,0,0,8643.88475,2063.173101
+Settlement,Lugbye,2672,542211.5898,840973.7478,Nimba,Yarmein,Gbeyi,,,,1,2000,0,0,2000,1,250,0,0,1,600,850,0.3,0,0,8643.88475,2063.173101
+Settlement,New Yourpea,2667,557123.8947,742970.1659,Nimba,Kparblee,Behwah,,,,1,2000,0,0,2000,0,0,0,0,2,1200,1200,0.3,0,0,8643.88475,2912.714965
+Settlement,Gbarnga Siaquelleh,2638,475818.8646,805255.5798,Bong,Panta,Wrunah,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Toweh  Town,2553,537487.9377,751633.2763,Nimba,Boe & Quilla,Quella,,,,0,0,0,0,0,1,250,0,0,1,600,850,0.3,0,0,0,2063.173101
+Settlement,Gbeleyee,2527,548806.1418,845919.1261,Nimba,Yarmein,Gbeleyee,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Gipo,2453,511180.9825,788505.7881,Nimba,Leewehpea-Mahn,Siateh,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Gorlu,2399,447424.6123,831329.3608,Lofa,Salayea,Gbarlin,,,,1,2000,0,0,2000,0,0,0,0,1,600,600,0.3,0,0,8643.88475,1456.357483
+Settlement,Cestos City,2389,435435.3386,604666.4442,Rivercess,Zarflahn,Boewein Toba,,,,0,0,0,0,0,1,250,1,500,1,600,1350,0.3,0,0,0,3276.804336
+Settlement,Morris Farm,2376,348000,722184,Montserra,Todee,Fahn-Seh,,,,0,0,0,0,0,1,250,1,500,1,600,1350,0.3,0,0,0,3276.804336
+Settlement,Dinplay,2365,566473.1159,750424.1821,Nimba,Buu-Yao,Frolay,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Gbakliken,2362,627671,557783,Maryland,Nyorken,Farjah,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Dugboken,2352,618917,547709,Maryland,Gwelekpoken,Gbalaken,,,,0,0,0,0,0,3,750,0,0,1,600,1350,0.3,0,0,0,3276.804336
+Settlement,Dingamon,2332,507172,798869,Nimba,Garr-Bain,Garr,,,,0,0,0,0,0,0,0,0,0,2,1200,1200,0.3,0,0,0,2912.714965
+Settlement,Duo Gorton,2311,541790.652,801856.1778,Nimba,Yarpea Mahn,Duo,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Marlay,2307,538222.1271,741293.6379,Nimba,Boe & Quilla,Quella,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Sennehwen,2275,549308,698466,Grand Gedeh,B'hai,Marbo #1,,,,0,0,0,0,0,1,250,0,0,1,600,850,0.3,0,0,0,2063.173101
+Settlement,Foequelleh,2260,474951,787803,Bong,Panta,Panta,,,,1,2000,0,0,2000,0,0,0,0,2,1200,1200,0.3,0,0,8643.88475,2912.714965
+Settlement,Camp Alpha A,2238,313910,831176,Gbarpolu,Koninga,Jawajeh,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Gbawiliken Cavalla,2230,627811,551885,Maryland,Nyorken,Newenken,,,,1,2000,0,0,2000,1,250,0,0,1,600,850,0.3,0,0,8643.88475,2063.173101
+Settlement,Graie Township,2185,525214.0992,741885.4576,Nimba,Doe,Sehzuplay,,,,1,2000,0,0,2000,3,750,0,0,0,0,750,0.3,0,0,8643.88475,1820.446853
+Settlement,Fissibu,2176,448442.7451,864687.2387,Lofa,Zorzor,Gizima,,,,1,2000,0,0,2000,1,250,1,500,2,1200,1950,0.3,0,0,8643.88475,4733.161819
+Settlement,Nyor Diaplay,2107,566923.6216,761037.1087,Nimba,Buu-Yao,Nyor-Diabarlor,,,,0,0,0,0,0,1,250,0,0,2,1200,1450,0.3,0,0,0,3519.530583
+Settlement,Bo,2057,237804.1643,775534.4841,Grand Cape Mount,Tewor,Passawe,,,,1,2000,0,0,2000,2,500,0,0,0,0,500,0.3,0,0,8643.88475,1213.631236
+Settlement,Zowieta,2048,479192.431,753493.6699,Bong,Kpaai,Wolota,,,,1,2000,0,0,2000,0,0,0,0,2,1200,1200,0.3,0,0,8643.88475,2912.714965
+Settlement,Gbarpa,2048,542604.4342,827530.4433,Nimba,Yarmein,Gbar,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Petroken,2044,594939.8287,624013.5193,Grand Gedeh,Putu,Upper Jebebo,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Weasua,2043,333335.5016,808973.4069,Gbarpolu,Gbarma,Yangaya,,,,1,2000,0,0,2000,0,0,0,0,1,600,600,0.3,0,0,8643.88475,1456.357483
+Settlement,Janzon,2040,605532,688079,Grand Gedeh,Cavala,Niao,,,,1,2000,0,0,2000,0,0,0,0,1,600,600,0.3,0,0,8643.88475,1456.357483
+Settlement,River Gbeh Township,2025,647799.0744,575995.4154,River Gee,Sarbo,Gbugbley,,,,1,2000,0,0,2000,0,0,0,0,0,0,0,0.3,0,0,8643.88475,0
+Settlement,Blemieplay,2012,573645.1628,766346.5024,Nimba,Twan River,Loe-Gbao,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Palala City,2010,468194.5514,773900.7958,Bong,Kpaai,Waytuah,,,,1,2000,0,0,2000,1,250,0,0,1,600,850,0.3,0,0,8643.88475,2063.173101
+Settlement,Sucromu,1998,452420,853555,Lofa,Salayea,Vavala,,,,1,2000,0,0,2000,0,0,0,0,1,600,600,0.3,0,0,8643.88475,1456.357483
+Settlement,Kpayea,1950,457528,852443,Lofa,Salayea,Vavala,,,,1,2000,0,0,2000,0,0,0,0,1,600,600,0.3,0,0,8643.88475,1456.357483
+Settlement,Behplay,1924,555221.9699,794271.7402,Nimba,Twan River,Srohlay,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Bodee,1923,530725.7712,688495.661,Grand Gedeh,Gboe-Ploe,Douangboyee/Neezonee,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Duogee,1922,554039.6123,693019,Grand Gedeh,B'hai,Tian-Duogee,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Mehnpa,1919,516088,772242,Nimba,Wee-Gbehyi-Mahn,Ylan,,,,0,0,0,0,0,0,0,0,0,2,1200,1200,0.3,0,0,0,2912.714965
+Settlement,Ziggida,1886,446702.5767,888379.3391,Lofa,Zorzor,Zeayeama,,,,0,0,0,0,0,1,250,0,0,1,600,850,0.3,0,0,0,2063.173101
+Settlement,Palakwell,1872,382692.8419,796388.7312,Gbarpolu,Gounwolaila,Gou,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Lawalazu,1844,406925.0288,934000.4171,Lofa,Voinjama,Upper Workor,,,,1,2000,0,0,2000,0,0,0,0,2,1200,1200,0.3,0,0,8643.88475,2912.714965
+Settlement,Kpalla-Jah Tondo,1837,301915.0641,711730.2692,Montserra,St. Paul River,Kpalla,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Duazon Public,1826,321964.9798,688833.5205,Margibi,Mambah Kaba,Scheiffelin Township,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Duo,1825,593878,634472,Grand Gedeh,Putu,Lower Jebebo,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Lepula,1821,564217.8812,771011.4109,Nimba,Buu-Yao,Vanwea,,,,1,2000,0,0,2000,1,250,0,0,1,600,850,0.3,0,0,8643.88475,2063.173101
+Settlement,Gahnmue,1810,481678.7609,799227.4325,Bong,Panta,Gahnmue,,,,1,2000,0,0,2000,0,0,0,0,2,1200,1200,0.3,0,0,8643.88475,2912.714965
+Settlement,Beatuo,1808,555119.8104,747114.4126,Nimba,Kparblee,Bentuo,,,,0,0,0,0,0,1,250,0,0,1,600,850,0.3,0,0,0,2063.173101
+Settlement,Zekepa,1774,486825,735096,Nimba,Yarwein Mehnsonnoh,Zehnla,,,,0,0,1,12500,12500,2,500,0,0,1,600,1100,0.3,0,0,54024.27969,2669.988718
+Settlement,Weajue,1768,288154.4454,791809.3279,Grand Cape Mount,Golakonneh,Mana,,,,0,0,0,0,0,2,500,0,0,0,0,500,0.3,0,0,0,1213.631236
+Settlement,Sehyi/Kimpa,1766,534490.4458,816149.5345,Nimba,Sanniquellie Mahn,Sehyi,,,,0,0,0,0,0,1,250,0,0,1,600,850,0.3,0,0,0,2063.173101
+Settlement,Kpalla-Perry  Town /Wilson Corner Displace Camp,1756,300491.1716,711688.2301,Montserra,St. Paul River,Kpalla,,,,0,0,0,0,0,3,750,1,500,0,0,1250,0.3,0,0,0,3034.078089
+Settlement,Garplay,1756,558685.3634,787896.2802,Nimba,Twan River,Srohlay,,,,1,2000,0,0,2000,2,500,0,0,1,600,1100,0.3,0,0,8643.88475,2669.988718
+Settlement,Dwejah,1752,614666,557157,Maryland,Whojah,Wuah,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Buutuo,1751,573126.7922,754329.6953,Nimba,Buu-Yao,Nyor,,,,1,2000,0,0,2000,1,250,0,0,1,600,850,0.3,0,0,8643.88475,2063.173101
+Settlement,Peah,1750,644145,650150,Grand Gedeh,Konobo,Lower Gbardru,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Lorplay,1750,531401.2744,768000.4972,Nimba,Boe & Quilla,Gosenter,,,,0,0,0,0,0,1,250,0,0,1,600,850,0.3,0,0,0,2063.173101
+Settlement,Karnwee,1741,516735,777219,Nimba,Leewehpea-Mahn,Leepea,,,,1,2000,0,0,2000,1,250,0,0,1,600,850,0.3,0,0,8643.88475,2063.173101
+Settlement,Owensgroove,1718,353402.4628,693137.5353,Grand Bassa,Owensgrove,Giah,,,,1,2000,0,0,2000,7,1750,1,500,2,1200,3450,0.3,0,0,8643.88475,8374.055526
+Settlement,Gbono Paye,1717,477759.4179,795946.5159,Bong,Panta,Gahnmue,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Gbarma,1716,302421,773601,Gbarpolu,Gbarma,Gbarma,,,,1,2000,0,0,2000,1,250,0,0,1,600,850,0.3,0,0,8643.88475,2063.173101
+Settlement,Blebo,1708,616119.3146,523107.2707,Grand Kru,Bleebo,Karwalaken,,,,1,2000,0,0,2000,3,750,0,0,1,600,1350,0.3,0,0,8643.88475,3276.804336
+Settlement,Felokree,1708,562981.9084,517350.3289,Grand Kru,Felo-Jekwi,Felor,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Genoyah City 1 Francis Nyanfor,1708,618706,507202,Grand Kru,Garraway,Genoyah,,,,0,0,0,0,0,1,250,0,0,2,1200,1450,0.3,0,0,0,3519.530583
+Settlement,Garaway  C/Ghakwenken,1708,618581.9108,497014.0475,Grand Kru,Garraway,Lower Garrway,,,,1,2000,0,0,2000,2,500,0,0,2,1200,1700,0.3,0,0,8643.88475,4126.346201
+Settlement,Gbarken & Newcess,1708,596944.1879,503287.6112,Grand Kru,Grand Cess Wedabo,Gbanken,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Grandcess City A,1708,585679,505190,Grand Kru,Grand Cess Wedabo,Grand Cess,,,,0,0,0,0,0,5,1250,1,500,1,600,2350,0.3,0,0,0,5704.066807
+Settlement,Behwan City,1708,625385,512791.977,Grand Kru,Trenbo,Behwan,,,,0,0,1,12500,12500,6,1500,0,0,4,2400,3900,0.3,0,0,54024.27969,9466.323638
+Settlement,Betu City,1708,558104,520436,Grand Kru,Upper Jloh,Gbatu,,,,0,0,0,0,0,2,500,0,0,1,600,1100,0.3,0,0,0,2669.988718
+Settlement,Senlay,1708,549872.0644,786680.7089,Nimba,Twan River,Wealay,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Zolowu,1699,439625.0306,846862.9927,Lofa,Zorzor,Gizima,,,,1,2000,0,0,2000,0,0,0,0,1,600,600,0.3,0,0,8643.88475,1456.357483
+Settlement,Gbayblin,1697,511691,784944,Nimba,Leewehpea-Mahn,Siateh,,,,1,2000,0,0,2000,1,250,0,0,0,0,250,0.3,0,0,8643.88475,606.8156178
+Settlement,Pennoken,1696,593885,618950,Grand Gedeh,Putu,Upper Jebebo,,,,1,2000,0,0,2000,1,250,0,0,0,0,250,0.3,0,0,8643.88475,606.8156178
+Settlement,Gblah,1679,535962,774710,Nimba,Zoe-Gbao,Zoe,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Bonla,1673,537308.867,837807.6099,Nimba,Yarmein,Gbar,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Jargeloken,1664,616292,537330,Maryland,Gwelekpoken,Datiaken,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Mambo,1662,366011,912057,Lofa,Foya,Luankollie,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Claim,1650,307628,828500,Gbarpolu,Koninga,Jawajeh,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Porlowu Town,1647,368719,908302,Lofa,Kolahun,Wanwoma,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Tiapa,1643,529435,787776,Nimba,Yarpea Mahn,Gbayee,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Vayenglay,1632,548331.1892,789664.4768,Nimba,Twan River,Wealay,,,,1,2000,0,0,2000,0,0,0,0,3,1800,1800,0.3,0,0,8643.88475,4369.072448
+Settlement,Galaymon,1628,487849.5903,766947.6341,Nimba,Meinpea-Mahn,Gbotein,,,,1,2000,0,0,2000,1,250,0,0,1,600,850,0.3,0,0,8643.88475,2063.173101
+Settlement,Rock Town,1626,625847,546504,Maryland,Nyorken,Gbitofla-fla,,,,0,0,0,0,0,1,250,0,0,1,600,850,0.3,0,0,0,2063.173101
+Settlement,Klay,1625,292557.9181,739450.586,Bomi,Klay,Kpo,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Duo Gbeah,1612,539956.8704,796800.2777,Nimba,Yarpea Mahn,Duo-ah,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Medina,1603,333771.6153,777981.0366,Gbarpolu,Bopolu,Bondi Man,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Karnley,1600,295580,773347.3402,Gbarpolu,Gbarma,Gbarma,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Kpantiaplay,1598,569977.3849,802425.6014,Nimba,Gbehlay-Geh,Sango-Zao,,,,1,2000,0,0,2000,0,0,0,0,2,1200,1200,0.3,0,0,8643.88475,2912.714965
+Settlement,Sarkonedu,1595,426334.8922,935727.1961,Lofa,Quardu Boundi,Quardu,,,,1,2000,0,0,2000,0,0,0,0,1,600,600,0.3,0,0,8643.88475,1456.357483
+Settlement,Younlay,1590,561272,811479,Nimba,Gbehlay-Geh,Sango-Zao,,,,1,2000,0,0,2000,1,250,0,0,1,600,850,0.3,0,0,8643.88475,2063.173101
+Settlement,Gbalasonnoh,1588,521893.1842,814241.2836,Nimba,Sanniquellie Mahn,Gboa,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Tussus,1587,438403.6124,918064.0566,Lofa,Quardu Boundi,Quardu,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Boaplay,1582,546126.1111,801364.1851,Nimba,Yarpea Mahn,Gbein,,,,0,0,0,0,0,1,250,0,0,1,600,850,0.3,0,0,0,2063.173101
+Settlement,Beeplay,1580,549272,771730,Nimba,Buu-Yao,Wea,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Gbonnie,1573,542629.5587,849430.4528,Nimba,Yarmein,Vayee,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Kpein,1572,490943.0597,784977.019,Nimba,Meinpea-Mahn,Zehyee,,,,0,0,0,0,0,0,0,0,0,2,1200,1200,0.3,0,0,0,2912.714965
+Settlement,Gbelahun,1571,363527.3652,896510.2605,Lofa,Kolahun,Lukasu,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Gbalorkpala,1569,459940,739201,Bong,Tukpahblee,Soel,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Bongarplay,1567,576453,774484,Nimba,Twan River,Loe-Gbao,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Kinnon,1566,546900.0273,849787.2648,Nimba,Yarmein,Vayee,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Hengima,1565,331057,891639,Lofa,Vahun,Central Guma,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Kpallah,1554,508976,771474,Nimba,Leewehpea-Mahn,Yarpea,,,,0,0,0,0,0,0,0,0,0,2,1200,1200,0.3,0,0,0,2912.714965
+Settlement,Geesanken,1547,614630,551089,Maryland,Whojah,Dufu,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Division,1544,344660.5312,698666.7109,Margibi,Firestone,Firestone,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Kpairplay,1543,549415.5496,795595.2162,Nimba,Twan River,Soelay,,,,0,0,0,0,0,0,0,0,0,2,1200,1200,0.3,0,0,0,2912.714965
+Settlement,Gbauju Village,1538,277283.6896,806963.9854,Grand Cape Mount,Porkpa,Sokpo,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,15 Gate Community,1534,335767.1374,707924.442,Montserra,Careysburg,Careyburg City,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Mahdiaplay # 1,1525,559959.144,783379.066,Nimba,Twan River,Srohlay,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Belenai,1514,452044.6676,803317.5308,Bong,Zota,Zota,,,,1,2000,0,0,2000,1,250,0,0,0,0,250,0.3,0,0,8643.88475,606.8156178
+Settlement,Maimue Town,1510,394665.1476,749939.3142,Bong,Salala,Konowolol,,,,0,0,0,0,0,1,250,0,0,1,600,850,0.3,0,0,0,2063.173101
+Settlement,Gorlay (Gorwee),1502,526475,778660,Nimba,Zoe-Gbao,Gbao,,,,0,0,0,0,0,2,500,0,0,0,0,500,0.3,0,0,0,1213.631236
+Settlement,Kwendin,1501,505722.2716,714003.9167,Nimba,Yarwein Mehnsonnoh,Blinlon,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Yarpuah,1500,453145,846295,Lofa,Salayea,Vavala,,,,1,2000,0,0,2000,1,250,0,0,0,0,250,0.3,0,0,8643.88475,606.8156178
+Settlement,Kpajia Camp,1496,478735.3105,649114.9061,Rivercess,Central Rivercess,Zialu,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Boe,1495,296339,735534,Bomi,Klay,Tehr,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Borsonnoh,1492,533920.8334,804984.6112,Nimba,Yarpea Mahn,Kpayee,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Lower Johnson,1484,309465,702232,Montserra,Commonwealth,Johnsonville Township,,,,4,8000,3,37500,45500,112,28000,2,1000,75,45000,74000,0.3,0,0,196648.3781,179617.4229
+Settlement,Jacksonville,1477,490720.2901,598185.6668,Sinoe,Kulu Shaw Boe,Lower Kulu,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Guagortuo,1470,561009.6179,819151.9648,Nimba,Gbehlay-Geh,Lan-Kao,,,,1,2000,0,0,2000,1,250,0,0,0,0,250,0.3,0,0,8643.88475,606.8156178
+Settlement,Kparblee,1465,550793.7506,729982.3466,Nimba,Kparblee,Gayea,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Duoplay,1462,563793.011,805235.8571,Nimba,Gbehlay-Geh,Sango-Zao,,,,1,2000,0,0,2000,1,250,0,0,1,600,850,0.3,0,0,8643.88475,2063.173101
+Settlement,Bartehjan,1454,579890,695661,Grand Gedeh,Cavala,Gborbo,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Gblor Diallah Town,1453,532917.5582,716364.4541,Nimba,Doe,Gblor,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Bongolodu,1443,427076,938279,Lofa,Quardu Boundi,Quardu,,,,0,0,0,0,0,2,500,0,0,0,0,500,0.3,0,0,0,1213.631236
+Settlement,Zeansue,1441,416590.6792,761141.0707,Bong,Yeallequelleh,Zeansue,,,,1,2000,0,0,2000,1,250,0,0,2,1200,1450,0.3,0,0,8643.88475,3519.530583
+Settlement,Charles Johnson,1433,405063,669322,Grand Bassa,Neekreen,Tubmanville,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Kpalla-Dudu/Kpalla-New Jah Tondo/Parker Corner,1427,301464.929,713150.5148,Montserra,St. Paul River,Kpalla,,,,0,0,0,0,0,1,250,2,1000,1,600,1850,0.3,0,0,0,4490.435572
+Settlement,Garyeesonnoh,1424,492954.0502,747404.9835,Nimba,Yarwein Mehnsonnoh,Mehnsonnoh,,,,0,0,0,0,0,2,500,0,0,0,0,500,0.3,0,0,0,1213.631236
+Settlement,Karlorwieh,1422,594239,635982,Grand Gedeh,Putu,Lower Jebebo,,,,1,2000,0,0,2000,1,250,0,0,0,0,250,0.3,0,0,8643.88475,606.8156178
+Settlement,Duo Tiayee,1417,537765.3332,801274.9445,Nimba,Yarpea Mahn,Duo,,,,1,2000,0,0,2000,0,0,0,0,1,600,600,0.3,0,0,8643.88475,1456.357483
+Settlement,Rlekporlay,1403,547438.2158,779760.6529,Nimba,Zoe-Gbao,Zean,,,,0,0,0,0,0,0,0,0,0,2,1200,1200,0.3,0,0,0,2912.714965
+Settlement,Sonuhan,1398,500796,598099,Sinoe,Kulu Shaw Boe,Upper Kulu,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Gbei Vonwea,1393,564532.4371,783072.074,Nimba,Twan River,Lower-Gbei,,,,1,2000,0,0,2000,1,250,0,0,1,600,850,0.3,0,0,8643.88475,2063.173101
+Settlement,Yarsonnoh,1391,514491.2915,779891.0074,Nimba,Leewehpea-Mahn,Leepea,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Mount Barclay,1389,317042.7552,702030.9598,Montserra,Commonwealth,Johnsonville Township,,,,0,0,0,0,0,2,500,0,0,0,0,500,0.3,0,0,0,1213.631236
+Settlement,Belleh Yallah,1387,390138,815165,Gbarpolu,Belleh,Bade,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Saw Mill,1387,335348,769716,Gbarpolu,Bopolu,Bondi Man,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Butuo,1380,566933.9895,763159.1052,Nimba,Buu-Yao,Nyor-Diabarlor,,,,0,0,0,0,0,1,250,0,0,1,600,850,0.3,0,0,0,2063.173101
+Settlement,Jarwadee,1379,575973.8911,621132.6144,Grand Gedeh,Putu,Zeenonblogbo,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Lofa Bridge,1378,292499,781904,Grand Cape Mount,Golakonneh,Mana,,,,1,2000,0,0,2000,3,750,0,0,1,600,1350,0.3,0,0,8643.88475,3276.804336
+Settlement,Beadatuo,1377,544612,772783,Nimba,Buu-Yao,Wea,,,,1,2000,0,0,2000,0,0,0,0,2,1200,1200,0.3,0,0,8643.88475,2912.714965
+Settlement,Zuie,1368,338812.1679,846787.4329,Gbarpolu,Koninga,Zuie,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Frolay,1368,563991,747574,Nimba,Buu-Yao,Frolay,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Mehnla,1367,502466.8375,753649.9014,Nimba,Yarwein Mehnsonnoh,Mehnsonnoh,,,,0,0,1,12500,12500,0,0,0,0,1,600,600,0.3,0,0,54024.27969,1456.357483
+Settlement,Glarlay New Town,1365,550053,766847,Nimba,Buu-Yao,Wea,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Boesan,1363,250013,791192,Grand Cape Mount,Porkpa,Seimavula,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Jarwadee,1351,575127,620950,Grand Gedeh,Putu,Zeenonblogbo,,,,1,2000,0,0,2000,0,0,0,0,1,600,600,0.3,0,0,8643.88475,1456.357483
+Settlement,Lehuma Town,1343,370867,903740,Lofa,Kolahun,Wanwoma,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Popalahun,1334,364707.031,904208.8432,Lofa,Kolahun,Hassala,,,,1,2000,0,0,2000,1,250,0,0,0,0,250,0.3,0,0,8643.88475,606.8156178
+Settlement,Wea New Town,1334,546796.6534,768804.0401,Nimba,Buu-Yao,Wea,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Beloken,1330,591076,510325,Grand Kru,Grand Cess Wedabo,Zoloken,,,,0,0,0,0,0,0,0,0,0,2,1200,1200,0.3,0,0,0,2912.714965
+Settlement,Kongo,1327,263783.7128,810314.6538,Grand Cape Mount,Porkpa,Sokpo,,,,1,2000,0,0,2000,1,250,0,0,0,0,250,0.3,0,0,8643.88475,606.8156178
+Settlement,Jacksonville,1325,490577.7681,598092.8115,Sinoe,Kulu Shaw Boe,Lower Kulu,,,,1,2000,0,0,2000,0,0,0,0,1,600,600,0.3,0,0,8643.88475,1456.357483
+Settlement,Koyama,1322,336949,894998,Lofa,Vahun,Upper Gum,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Gaye,1315,558048.8655,681676.5162,Grand Gedeh,Gbao,Jaladaye,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Masambolahun,1311,370757.8613,909625.5232,Lofa,Kolahun,Wanwoma,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Duo Boe,1305,541884,793785,Nimba,Yarpea Mahn,Duo-ah,,,,0,0,0,0,0,0,0,0,0,2,1200,1200,0.3,0,0,0,2912.714965
+Settlement,Gbah,1302,503125.3405,791189.4087,Nimba,Leewehpea-Mahn,Sephein,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Gbarplay,1292,536056.5865,763865.9324,Nimba,Boe & Quilla,Gosenter,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Siaplay New Town,1291,540454,787333,Nimba,Zoe-Gbao,Lonpea,,,,0,0,0,0,0,1,250,0,0,1,600,850,0.3,0,0,0,2063.173101
+Settlement,Gbenequelleh,1290,449118.1308,745317.4184,Bong,Jorquelleh,Sheansue,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Konia,1276,440696.9461,879822.0535,Lofa,Zorzor,Zeayeama,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Duta,1275,467970,770988,Bong,Kpaai,Waytuah,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Guassay,1273,249576,794936,Grand Cape Mount,Porkpa,Seimavula,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Glann Town,1269,506376.8072,691412.268,Nimba,Gbi & Doru,Nyenvor,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Krakree,1267,584713,575740,River Gee,Nanee,Wrejah,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Nengbain,1266,497518.1654,795513.1181,Nimba,Garr-Bain,Bain,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Zeanlay # 1,1264,563702,802266,Nimba,Gbehlay-Geh,Sango-Zao,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Gbah Jakeh,1255,282033.1459,742829.0312,Bomi,Senjeh,Zerpeh,,,,1,2000,0,0,2000,3,750,0,0,0,0,750,0.3,0,0,8643.88475,1820.446853
+Settlement,Cheboken,1250,587635,563983,Grand Kru,Forpoh,Bugbab,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Billibo,1249,651355,629014,Grand Gedeh,Glio-Twarbo,Dugbehbo,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Geanplay,1249,557419.8091,799043.1455,Nimba,Twan River,Gborplay,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Tugbaken,1248,643007,515396,Maryland,Karluway#2,Benwen,,,,0,0,0,0,0,2,500,0,0,0,0,500,0.3,0,0,0,1213.631236
+Settlement,Cavalla Big Town Community,1247,656255,482103,Maryland,Harper,Cavalla,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Kpakpeh Village,1239,466676.4369,650409.0649,Rivercess,Central Rivercess,Teekpeh,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Joe Blow,1237,347449.1328,691231,Margibi,Mambah Kaba,Kpaye,,,,1,2000,0,0,2000,0,0,0,0,1,600,600,0.3,0,0,8643.88475,1456.357483
+Settlement,Glarlay,1236,560383,741906,Nimba,Buu-Yao,Ninkwea,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Boundary Town One,1232,612529,649392,Grand Gedeh,Konobo,Upper Gbillibo,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Division 37,1232,354405.8984,706626.8047,Margibi,Firestone,Firestone,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Bonglay,1232,550396.8716,753768.7245,Nimba,Boe & Quilla,Boe,,,,1,2000,0,0,2000,1,250,0,0,1,600,850,0.3,0,0,8643.88475,2063.173101
+Settlement,Putuken,1229,606322.1657,591333.672,River Gee,Chedepo,Neataken,,,,1,2000,0,0,2000,0,0,0,0,1,600,600,0.3,0,0,8643.88475,1456.357483
+Settlement,Old Yourpea,1224,554240.4519,741867.3345,Nimba,Kparblee,Bentuo,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Naama,1222,461133,802399,Bong,Zota,Zota,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Freeman Reserved,1221,341246,713158,Montserra,Todee,Fahn-Seh,,,,0,0,0,0,0,2,500,0,0,0,0,500,0.3,0,0,0,1213.631236
+Settlement,Gozohn,1221,469593.8579,691759.9042,Rivercess,Doedain,Zarkue,,,,1,2000,0,0,2000,1,250,0,0,1,600,850,0.3,0,0,8643.88475,2063.173101
+Settlement,Jowah,1220,474653.2464,813070.6425,Bong,Panta,Wrunah,,,,0,0,1,12500,12500,1,250,0,0,0,0,250,0.3,0,0,54024.27969,606.8156178
+Settlement,Baila,1218,481425,780899,Bong,Kpaai,Waytuah,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Sanoyea,1218,391478,771144,Bong,Sanoyeah,Sanoyea,,,,1,2000,0,0,2000,1,250,0,0,0,0,250,0.3,0,0,8643.88475,606.8156178
+Settlement,Schiefflin,1216,330340.6249,688433.6249,Margibi,Mambah Kaba,Scheiffelin Township,,,,0,0,0,0,0,1,250,0,0,1,600,850,0.3,0,0,0,2063.173101
+Settlement,Memolahun,1208,338483,891716,Lofa,Vahun,Upper Gum,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Buway,1200,640025,633885,Grand Gedeh,Glio-Twarbo,Nenebo,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Duoyee,1186,505157,760570,Nimba,Wee-Gbehyi-Mahn,Lowee,,,,1,2000,0,0,2000,2,500,0,0,1,600,1100,0.3,0,0,8643.88475,2669.988718
+Settlement,Warliken,1186,602956,584005,River Gee,Karforh,Jaytoken,,,,1,2000,0,0,2000,2,500,0,0,0,0,500,0.3,0,0,8643.88475,1213.631236
+Settlement,New Creek (CVI),1182,616247,622468,Grand Gedeh,Konobo,Lower Gbillibo,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Tarloken,1181,657112,645559,Grand Gedeh,Glio-Twarbo,Gboawon,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Zahnzaye,1181,489762,719629,Nimba,Yarwein Mehnsonnoh,Blinlon,,,,0,0,0,0,0,1,250,0,0,1,600,850,0.3,0,0,0,2063.173101
+Settlement,Wehplay,1172,540869,782423,Nimba,Gbor,Duobehyee,,,,1,2000,0,0,2000,0,0,0,0,1,600,600,0.3,0,0,8643.88475,1456.357483
+Settlement,Soloken,1171,619314,534294,Maryland,Gwelekpoken,Datiaken,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Tarnue,1169,317783,701855,Montserra,Commonwealth,Johnsonville Township,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Flumpa,1161,509754,785536,Nimba,Leewehpea-Mahn,Siateh,,,,2,4000,0,0,4000,2,500,0,0,2,1200,1700,0.3,0,0,17287.7695,4126.346201
+Settlement,Sayou-Woe,1155,623757,662285,Grand Gedeh,Konobo,Upper Gbardru,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Mandu,1153,643588,522383,Maryland,Karluway#2,Wlebo,,,,1,2000,0,0,2000,3,750,0,0,0,0,750,0.3,0,0,8643.88475,1820.446853
+Settlement,Boyee,1150,497984,713988,Nimba,Yarwein Mehnsonnoh,Blinlon,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Henogba,1148,637377,515580,Maryland,Karluway#2,Benwen,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Fangonda Town,1147,370747,908896,Lofa,Kolahun,Wanwoma,,,,1,2000,0,0,2000,1,250,0,0,1,600,850,0.3,0,0,8643.88475,2063.173101
+Settlement,Kpayelepula,1146,534096.0185,798677.7038,Nimba,Yarpea Mahn,Kpayee,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Pronoken,1146,615021.0537,573464.8044,River Gee,Nyenawliken,Martuken,,,,1,2000,0,0,2000,0,0,0,0,1,600,600,0.3,0,0,8643.88475,1456.357483
+Settlement,Zayglay,1143,528707.0148,781282.1439,Nimba,Zoe-Gbao,Leepea,,,,0,0,0,0,0,2,500,0,0,0,0,500,0.3,0,0,0,1213.631236
+Settlement,Solumba,1137,372330.7496,940321.3232,Lofa,Foya,Waum,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Gbanway,1137,453317.8331,849963.9762,Lofa,Salayea,Vavala,,,,1,2000,0,0,2000,1,250,0,0,0,0,250,0.3,0,0,8643.88475,606.8156178
+Settlement,Doumpa,1135,513019.9134,752824.0577,Nimba,Wee-Gbehyi-Mahn,Wee,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Gbarmue 1,1134,454899.8143,788298.0727,Bong,Jorquelleh,Jorpolu,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Makpoh Hill,1134,442792.6062,806863.2328,Bong,Zota,Boisville,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Bueh Town,1134,521269,775263,Nimba,Wee-Gbehyi-Mahn,Ylan,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Gbanquoi,1133,517383,764257,Nimba,Wee-Gbehyi-Mahn,Wee,,,,0,0,0,0,0,1,250,0,0,1,600,850,0.3,0,0,0,2063.173101
+Settlement,Garduah Town # 1,1128,421228,726067,Grand Bassa,District # 2,Boeglayn,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Beyan,1122,444745.7716,811492.2999,Lofa,Salayea,Palama,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Kologbane,1117,403332,796186,Gbarpolu,Gounwolaila,Nwolaila,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Kpanta,1115,378748.3449,793908.383,Gbarpolu,Gounwolaila,Gou,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Guerkpahnah,1115,526250,773717,Nimba,Zoe-Gbao,Gbao,,,,0,0,0,0,0,3,750,0,0,0,0,750,0.3,0,0,0,1820.446853
+Settlement,Unifinication/Kulu Junction,1113,504439.7577,593827.3691,Sinoe,Plahn Nyarn,Nyarn,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Beintorwin,1112,534855.3414,845860.8486,Nimba,Yarmein,Gbeyi,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Division 6 Front,1109,338901.9522,700364.2208,Margibi,Firestone,Firestone,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Division 1 Cross Camp,1101,348755.0937,700621.8984,Margibi,Firestone,Firestone,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Glofaken,1101,621850,546584,Maryland,Gwelekpoken,Sikliken,,,,1,2000,0,0,2000,4,1000,1,500,0,0,1500,0.3,0,0,8643.88475,3640.893707
+Settlement,Dean Town / Gold Camp,1100,469781.8218,735172.9571,Bong,Boinsen,Senwein,,,,0,0,0,0,0,2,500,0,0,0,0,500,0.3,0,0,0,1213.631236
+Settlement,Sowken (farming Comm.,1096,631765,508803,Grand Kru,Garraway,Upper Garraway,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Ganglota,1091,445549,820513,Lofa,Salayea,Palama,,,,1,2000,0,0,2000,0,0,0,0,1,600,600,0.3,0,0,8643.88475,1456.357483
+Settlement,Zammie Town,1091,472289.4613,646760.5991,Rivercess,Central Rivercess,Teekpeh,,,,1,2000,0,0,2000,2,500,0,0,0,0,500,0.3,0,0,8643.88475,1213.631236
+Settlement,Banwea,1085,542551,769382,Nimba,Buu-Yao,Wea,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Zuo,1082,304563,775527,Gbarpolu,Gbarma,Gbarma,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Gedeken,1082,597511,577614,River Gee,Karforh,Kanweaken,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Kpokon,1080,445780,717296,Grand Bassa,District # 3,Pay-U-Way,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Gbasselah Town (New),1078,504724,799992,Nimba,Garr-Bain,Garr,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Dagba,1078,545384,633251,Sinoe,Seekon,Dagbah,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Kpalla-Kpalla,1077,300638.596,711054.2937,Montserra,St. Paul River,Kpalla,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Lein,1072,245501,795126,Grand Cape Mount,Porkpa,Seimavula,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Kpaytuo,1072,520812,752808,Nimba,Wee-Gbehyi-Mahn,Wee,,,,1,2000,0,0,2000,2,500,0,0,1,600,1100,0.3,0,0,8643.88475,2669.988718
+Settlement,Shankpallai,1071,462883.4417,814447.33,Bong,Zota,Upper Kpa,,,,1,2000,0,0,2000,0,0,0,0,0,0,0,0.3,0,0,8643.88475,0
+Settlement,Panrow,1071,596434,626020,Grand Gedeh,Putu,Lower Jebebo,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Bein Glahn,1070,483874,739400,Nimba,Yarwein Mehnsonnoh,Mehnsonnoh,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Sehyi-Geh,1069,534193.4692,819444.9529,Nimba,Sanniquellie Mahn,Sehyi,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Vai Kain Way I,1068,255573,791065,Grand Cape Mount,Porkpa,Seimavula,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Devongbin,1061,524554.5562,783884.8067,Nimba,Gbor,Gbor,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Gblehyee,1061,496744,776670,Nimba,Meinpea-Mahn,Slappa,,,,0,0,0,0,0,1,250,0,0,1,600,850,0.3,0,0,0,2063.173101
+Settlement,Damballa (A),1059,248029,789458,Grand Cape Mount,Porkpa,Seimavula,,,,0,0,1,12500,12500,1,250,0,0,0,0,250,0.3,0,0,54024.27969,606.8156178
+Settlement,Duowin,1059,524477,775630,Nimba,Zoe-Gbao,Gbao,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Kayata,1058,439642.6002,791626.2594,Bong,Suakoko,Kporyorqu,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,S.R.C. Camp I,1056,375249.8019,735553.3175,Margibi,Kakata,Dinnita,,,,0,0,1,12500,12500,0,0,0,0,0,0,0,0.3,0,0,54024.27969,0
+Settlement,Central Davoryee,1056,527114,815977,Nimba,Sanniquellie Mahn,Gboa,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Dahnpa,1056,493117,723526,Nimba,Yarwein Mehnsonnoh,Blinlon,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Kamatahun (A),1055,357152.2273,899896.3228,Lofa,Kolahun,Hassala,,,,1,2000,0,0,2000,1,250,0,0,0,0,250,0.3,0,0,8643.88475,606.8156178
+Settlement,Botota,1054,458784,735333,Bong,Tukpahblee,Soel,,,,1,2000,0,0,2000,0,0,0,0,1,600,600,0.3,0,0,8643.88475,1456.357483
+Settlement,Sosmoilahun Town (A),1054,372857.6575,913574.9436,Lofa,Kolahun,Wanwoma,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Produken,1053,612671,582389,River Gee,Gbeapo,Duwalaken,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Wartiken,1052,646960,534402,Maryland,Karluway#1,Gedebo,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Nye-wissiken,1052,650869,523445,Maryland,Karluway#2,Nyewraken,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Lontuo(Central),1052,569660,773644.1595,Nimba,Twan River,Gborplay,,,,0,0,0,0,0,2,500,0,0,0,0,500,0.3,0,0,0,1213.631236
+Settlement,Gold Camp (A),1049,302631.6383,789258.583,Grand Cape Mount,Golakonneh,Laar,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Gbanwea,1049,567280.4242,757991.6468,Nimba,Buu-Yao,Nyor-Diabarlor,,,,0,0,0,0,0,1,250,1,500,0,0,750,0.3,0,0,0,1820.446853
+Settlement,Mbejquah,1047,469221.0974,791028.455,Bong,Zota,Gwilapolu,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Sarlay,1046,543596,752235,Nimba,Boe & Quilla,Sarlay,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Pounken,1045,644021,527051,Maryland,Karluway#2,Wlebo,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Kulukar,1043,420776.6239,934181.3394,Lofa,Quardu Boundi,Quardu,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Gboyea,1036,439015.0563,829688.9887,Lofa,Salayea,Gbarlin,,,,1,2000,0,0,2000,0,0,0,0,1,600,600,0.3,0,0,8643.88475,1456.357483
+Settlement,Wuluken,1034,641378,525392,Maryland,Karluway#2,Wlebo,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Geebio,1033,586016,617625,Grand Gedeh,Putu,Bio Wiah,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Division 43 Coordinate,1033,353164.2187,700350.3125,Margibi,Firestone,Firestone,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Guotoin,1029,488007,745656,Nimba,Yarwein Mehnsonnoh,Mehnsonnoh,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Wutuken,1024,627616,548641,Maryland,Nyorken,Gbitofla-fla,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Moipa Ta,1016,399410.3084,746790.8627,Bong,Salala,Konowolol,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Zebay,1013,478113,765094,Bong,Kpaai,Waytuah,,,,1,2000,0,0,2000,0,0,0,0,1,600,600,0.3,0,0,8643.88475,1456.357483
+Settlement,Division 28 Cubic Camp 1,1006,352635.0666,710253.2261,Margibi,Firestone,Firestone,,,,1,2000,0,0,2000,0,0,0,0,0,0,0,0.3,0,0,8643.88475,0
+Settlement,Garwonpa,1005,509586.4986,758106.7535,Nimba,Wee-Gbehyi-Mahn,Borpea,,,,0,0,0,0,0,1,250,0,0,1,600,850,0.3,0,0,0,2063.173101
+Settlement,Barkar Junction,1004,252086,764685,Grand Cape Mount,Garwula,Gion,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Handii,1003,346871,761856,Bong,Fuamah,Dobli,,,,1,2000,0,0,2000,1,250,0,0,0,0,250,0.3,0,0,8643.88475,606.8156178
+Settlement,Rock Town,1002,635083,485995,Maryland,Harper,Rock Town,,,,1,2000,0,0,2000,0,0,0,0,0,0,0,0.3,0,0,8643.88475,0
+Settlement,Zai,1001,577958,684489,Grand Gedeh,Cavala,Gborbo,,,,1,2000,0,0,2000,0,0,0,0,1,600,600,0.3,0,0,8643.88475,1456.357483
+Settlement,Barwonkpo New Town,998,562591,540713,Grand Kru,Bolloh,Karlakpo,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Sayu-O,995,642752,634010,Grand Gedeh,Glio-Twarbo,Nenebo,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Gomahplay,994,569104,764470,Nimba,Buu-Yao,Nyor,,,,0,0,0,0,0,2,500,0,0,0,0,500,0.3,0,0,0,1213.631236
+Settlement,Geeken,994,616037,595297,River Gee,Chedepo,Wropaken,,,,0,0,0,0,0,2,500,0,0,0,0,500,0.3,0,0,0,1213.631236
+Settlement,Gbon,992,650877,518620,Maryland,Karluway#2,Yederobo,,,,0,0,0,0,0,3,750,0,0,0,0,750,0.3,0,0,0,1820.446853
+Settlement,Cocopa Camp 6,991,519274,788765,Nimba,Leewehpea-Mahn,Siateh,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Division Nusary Camp,987,337338.6669,704863.3997,Margibi,Firestone,Firestone,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Maoh,982,541591,806991,Nimba,Yarpea Mahn,Gbein,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Gbormieplay,981,536521,770004,Nimba,Zoe-Gbao,Zoe,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Kpalla-Bible College,980,301977.054,710908.9027,Montserra,St. Paul River,Kpalla,,,,0,0,0,0,0,2,500,2,1000,2,1200,2700,0.3,0,0,0,6553.608672
+Settlement,Mahnplay,979,554161,768495,Nimba,Buu-Yao,Wea,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Yekepa-Barpa,979,548687,838151,Nimba,Yarmein,Gbeleyee,,,,0,0,0,0,0,2,500,1,500,1,600,1600,0.3,0,0,0,3883.619954
+Settlement,Sahnpa,976,497743,722908,Nimba,Yarwein Mehnsonnoh,Blinlon,,,,0,0,0,0,0,1,250,0,0,1,600,850,0.3,0,0,0,2063.173101
+Settlement,Gbonwea (Old Town),971,552881.4668,785480.7361,Nimba,Twan River,Lower-Gbei,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Larwelle I,967,464532.1007,819211.3798,Bong,Zota,Upper Kpa,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Bendaja (B),962,252225,792564,Grand Cape Mount,Porkpa,Seimavula,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Pouh Town,961,565988.1505,688394.578,Grand Gedeh,Gbao,Wromel,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Lukasu,959,362851.9829,890205.9774,Lofa,Kolahun,Lukasu,,,,0,0,1,12500,12500,1,250,0,0,0,0,250,0.3,0,0,54024.27969,606.8156178
+Settlement,Gbonota,955,413741,786274,Bong,Sanoyeah,Menquelle,,,,1,2000,0,0,2000,0,0,0,0,1,600,600,0.3,0,0,8643.88475,1456.357483
+Settlement,Bouannay,955,572219,772204,Nimba,Twan River,Loe-Gbao,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Gotowin,954,531557,795011,Nimba,Yarpea Mahn,Kpayee,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Dolowelyzon,950,586845,670511,Grand Gedeh,Cavala,Gorbo,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Polar,950,548113,680889,Grand Gedeh,Gbao,Marbo #2,,,,1,2000,0,0,2000,0,0,0,0,1,600,600,0.3,0,0,8643.88475,1456.357483
+Settlement,Tiaplay,950,562132,777407,Nimba,Buu-Yao,Vanwea,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Tiene,946,244484.1517,770651.0453,Grand Cape Mount,Tewor,Fahnbulleh D,,,,1,2000,0,0,2000,1,250,0,0,0,0,250,0.3,0,0,8643.88475,606.8156178
+Settlement,Pynestown,943,566322.2137,629555.9782,Sinoe,Pynes Town,Kabadah,,,,0,0,1,12500,12500,0,0,0,0,1,600,600,0.3,0,0,54024.27969,1456.357483
+Settlement,Manbor,941,551106.1824,800644.4448,Nimba,Gbehlay-Geh,Gbehlay,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Beletanda I,939,406856,789138,Bong,Sanoyeah,Nyallie,,,,0,0,0,0,0,2,500,0,0,0,0,500,0.3,0,0,0,1213.631236
+Settlement,Fish Town,939,630192,488792,Maryland,Harper,Fish  Town,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Lowoma,937,387264,847369,Gbarpolu,Belleh,Lobarsu,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Wuo's,937,503646,800029,Nimba,Garr-Bain,Garr,,,,1,2000,0,0,2000,1,250,0,0,3,1800,2050,0.3,0,0,8643.88475,4975.888066
+Settlement,Yowee,936,465662.8303,793922.7661,Bong,Zota,Gwilapolu,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Katoplay New Town,936,550761,776060,Nimba,Buu-Yao,Wea,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Zahnglesonaa,935,507690,770408,Nimba,Leewehpea-Mahn,Yarpea,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Bassa,934,335538,707634,Montserra,Careysburg,Careyburg City,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Richard Henry,931,451910,779609,Bong,Jorquelleh,Jorpolu,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Nyarlay,926,558679.2932,769546.7414,Nimba,Buu-Yao,Yao-Kwahkerlah,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Voogbadee,924,551144,639586,Sinoe,Seekon,Voogbadee,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Elizabeth Collinsvill,923,601036.3711,514567.6793,Grand Kru,Grand Cess Wedabo,Zoloken,,,,0,0,0,0,0,1,250,0,0,1,600,850,0.3,0,0,0,2063.173101
+Settlement,Daplorken,922,629479.8623,500121.2833,Grand Kru,Garraway,Upper Nimiah,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Yedieken,922,648311,517174,Maryland,Karluway#2,Yederobo,,,,1,2000,0,0,2000,1,250,0,0,0,0,250,0.3,0,0,8643.88475,606.8156178
+Settlement,Yarpa,922,432314.7808,632503.0678,Rivercess,Norwein,Wheasayn,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Gatema,919,383823,850803,Gbarpolu,Belleh,Lobarsu,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Warkpo(Wasswa City),919,565072,551420,Grand Kru,Bolloh,Warsweh,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Kogbemai,918,415271,940479,Lofa,Voinjama,Upper Workor,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Glee #8,917,339043,712102,Montserra,Careysburg,Kingsville Township,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Baylehglay,917,543917,787546,Nimba,Zoe-Gbao,Zean,,,,0,0,0,0,0,0,0,0,0,2,1200,1200,0.3,0,0,0,2912.714965
+Settlement,Gouwarma,916,395461,856384,Gbarpolu,Belleh,Lobarsu,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Division 30,914,361072.5432,713200.5079,Margibi,Firestone,Firestone,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Yenkpalah,914,482757.6901,772207.9085,Nimba,Meinpea-Mahn,Meinboyee,,,,0,0,0,0,0,2,500,0,0,0,0,500,0.3,0,0,0,1213.631236
+Settlement,Teahzaygbeplay,911,573879,789097,Nimba,Twan River,Gborplay,,,,0,0,0,0,0,1,250,0,0,1,600,850,0.3,0,0,0,2063.173101
+Settlement,Laketa,910,350450.4653,734327.1345,Margibi,Kakata,Waymaquelleh,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Gbojay,908,312845,736435,Bomi,Suehn Mecca,Gbojay,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Yeaplay,908,563602,813916,Nimba,Gbehlay-Geh,Lan-Kao,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Beipa,907,498280,785142,Nimba,Meinpea-Mahn,Slappa,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Galai,906,468177,777968,Bong,Kpaai,Waytuah,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Boniken,905,645915,513661,Maryland,Karluway#2,Kanbo,,,,1,2000,0,0,2000,0,0,0,0,2,1200,1200,0.3,0,0,8643.88475,2912.714965
+Settlement,Moulton Corner,904,303205.3564,710882.0139,Montserra,St. Paul River,Vonzon,,,,0,0,0,0,0,1,250,0,0,2,1200,1450,0.3,0,0,0,3519.530583
+Settlement,Zarsonnoh,901,496651,782212,Nimba,Meinpea-Mahn,Slappa,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Wlowen,900,632654,512044,Maryland,Karluway#2,Benwen,,,,0,0,0,0,0,1,250,0,0,1,600,850,0.3,0,0,0,2063.173101
+Settlement,Rlantuo,895,541887,778824,Nimba,Gbor,Duobehyee,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Sueh,885,311317,731836,Bomi,Suehn Mecca,Gbor,,,,0,0,0,0,0,1,250,0,0,1,600,850,0.3,0,0,0,2063.173101
+Settlement,Cocopa Camp I,883,513942.9106,782405.1397,Nimba,Leewehpea-Mahn,Siateh,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Cocopa Camp 7,883,515987.6373,788754.6502,Nimba,Leewehpea-Mahn,Siateh,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Karyee,881,493562.8767,740960.6219,Nimba,Yarwein Mehnsonnoh,Zehnla,,,,0,0,0,0,0,2,500,0,0,0,0,500,0.3,0,0,0,1213.631236
+Settlement,Yila,880,486683,759098,Bong,Kpaai,Wolota,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Dewoblee,876,550752,731531,Nimba,Kparblee,Gayea,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Massalay,873,336207,815121,Gbarpolu,Gbarma,Yangaya,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Marsital City2,873,346608.8507,679938.4623,Margibi,Mambah Kaba,Marshall City,,,,0,0,1,12500,12500,1,250,0,0,1,600,850,0.3,0,0,54024.27969,2063.173101
+Settlement,Jaytoken,872,614170,581094,River Gee,Gbeapo,Geeken,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Central Kingsville,871,337217.9869,710340.4774,Montserra,Careysburg,Kingsville Township,,,,1,2000,0,0,2000,2,500,0,0,1,600,1100,0.3,0,0,8643.88475,2669.988718
+Settlement,Kpakolokoyah,870,371877.0556,743238.2445,Bong,Salala,Nyaporque,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Dangalahun I,870,351215,898925,Lofa,Kolahun,Hassala,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Kaipa,870,496668,732203,Nimba,Yarwein Mehnsonnoh,Zehnla,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Samodu,869,427439,923567,Lofa,Quardu Boundi,Quardu,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Yarwobah Village,868,448798.0198,845258.6888,Lofa,Salayea,Vavala,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Gmagmakpo,866,572057,561856,Sinoe,Bodae,Gmagmakpo,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Big Geveh,865,322089,751266,Bomi,Suehn Mecca,Upper Mec,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Bearlay,865,560157,760144,Nimba,Buu-Yao,Yao-Kwahkerlah,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Dweaken,865,612354,580395,River Gee,Gbeapo,Geeken,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Jarwodee,864,544282,675763,Grand Gedeh,Gbao,Neezonnie #1,,,,1,2000,0,0,2000,1,250,0,0,1,600,850,0.3,0,0,8643.88475,2063.173101
+Settlement,Big Kpaja,863,348167.9786,695496.3723,Margibi,Mambah Kaba,Charsville,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Yeala,860,456237,864964,Lofa,Zorzor,Gizima,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Picnicess City,857,578330.9341,510308.4311,Grand Kru,Barclayville,Kpoh,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Kwendin,856,505848.3754,712969.1586,Nimba,Yarwein Mehnsonnoh,Blinlon,,,,1,2000,0,0,2000,0,0,0,0,1,600,600,0.3,0,0,8643.88475,1456.357483
+Settlement,Slasliwahn,856,608480.7099,578601.8046,River Gee,Gbeapo,Saykliken,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Teikei,855,406448,848476,Gbarpolu,Belleh,Lobarsu,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Fonor,853,295835,757002,Bomi,Senjeh,Manoah,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Gaya,853,386073.6924,748163.7917,Bong,Salala,Kpartolee,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Fonnor,853,272540,813538,Grand Cape Mount,Porkpa,Sokpo,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Boway,852,606052.9714,691892.0194,Grand Gedeh,Cavala,Niao,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Gortiken,852,612887,551624,Maryland,Whojah,Ganijah,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Lampa,852,510428,781753,Nimba,Leewehpea-Mahn,Siateh,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Gbao-Ta,851,456136.1647,774146.3428,Bong,Jorquelleh,Behquelle,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Barcon,848,308104,718404,Montserra,St. Paul River,Barcon,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Nyansin New,846,514270,762037,Nimba,Wee-Gbehyi-Mahn,Wee,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Gboleken,845,595966,675335,Grand Gedeh,Tchien,Tchien Menyea,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Konia,845,440409,880023,Lofa,Zorzor,Zeayeama,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Sumo,844,309131,734456,Bomi,Suehn Mecca,Gbojay,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Mandina (B),844,271949,743057,Grand Cape Mount,Garwula,Manobalah A,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Gbangai (A),844,253858.5126,794733.065,Grand Cape Mount,Porkpa,Seimavula,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,S. R. C. Camp III,844,377576.3141,734664.5787,Margibi,Kakata,Dinnita,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Gungbe-ta,841,379225,802470,Gbarpolu,Bokomu,Upper Bok,,,,0,0,0,0,0,1,250,0,0,1,600,850,0.3,0,0,0,2063.173101
+Settlement,Golata,840,406532,842644,Gbarpolu,Belleh,Lobarsu,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Weilor Town A,839,242973.5972,774704.5065,Grand Cape Mount,Tewor,Passawe,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Prince Wallace Estate,839,344537.1766,692302.854,Margibi,Mambah Kaba,Kpaye,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Juejuah Town,838,258553,802829,Grand Cape Mount,Porkpa,Kposo,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Gbao#1,837,315493.2739,739037.5905,Bomi,Suehn Mecca,Gbojay,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Nyouken,837,600546,573451,River Gee,Nanee,Meyan,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Gbarkagborquoita A,835,382734,804598,Gbarpolu,Bokomu,Upper Bok,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Loe Lay,835,552805.6193,801276.6854,Nimba,Gbehlay-Geh,Gbehlay,,,,0,0,0,0,0,2,500,0,0,0,0,500,0.3,0,0,0,1213.631236
+Settlement,Tinyee,834,481356,776219,Nimba,Meinpea-Mahn,Meinboyee,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Division 41,832,356056.4162,704703.0458,Margibi,Firestone,Firestone,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Larpea # 2,832,561310,805341,Nimba,Gbehlay-Geh,Gbehlay,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Gborplay,832,576488.9121,780736.9252,Nimba,Twan River,Gborplay,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Doodwicken,828,548129,572248,Sinoe,Jeadepo,Sarpo,,,,1,2000,0,0,2000,0,0,0,0,1,600,600,0.3,0,0,8643.88475,1456.357483
+Settlement,Garduor,825,449264,709093,Grand Bassa,District # 3,Pay-U-Way,,,,1,2000,0,0,2000,0,0,0,0,1,600,600,0.3,0,0,8643.88475,1456.357483
+Settlement,Yreah,825,517149,721189,Nimba,Doe,Gbear,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Gayah Hill,824,288806.4297,747751.9422,Bomi,Senjeh,Zerpeh,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Bohn Town,824,416170.537,729496.0291,Grand Bassa,District # 2,Chan,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Wropluken,823,592461,546511,Grand Kru,Gee,Tarken,,,,0,0,0,0,0,2,500,0,0,1,600,1100,0.3,0,0,0,2669.988718
+Settlement,Little Liberia Town,823,430298.8742,619865.8902,Rivercess,Fen River,Garyea Zohn,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Saygbeken,820,593450,594779,Sinoe,Jeadepo,Surwoloh,,,,0,0,0,0,0,1,250,0,0,1,600,850,0.3,0,0,0,2063.173101
+Settlement,Paris,820,473567.18,579938.2565,Sinoe,Sanquin Dist#2,Central Tarsue,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Beaden,819,345840,830950,Gbarpolu,Koninga,Zuie,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Gbei Bonnah,818,561404.362,792858.6114,Nimba,Twan River,Upper-Gbei,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Nyandemoilahun Town Center,814,394374,933696,Lofa,Kolahun,Wolukoha,,,,1,2000,0,0,2000,0,0,0,0,1,600,600,0.3,0,0,8643.88475,1456.357483
+Settlement,Samay,813,451083,749715,Bong,Jorquelleh,Sheansue,,,,1,2000,0,0,2000,1,250,0,0,1,600,850,0.3,0,0,8643.88475,2063.173101
+Settlement,Nyewolihun,813,384041,913141,Lofa,Kolahun,Tahamba,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Zalakai,812,375817,806612,Gbarpolu,Bokomu,Upper Bok,,,,0,0,0,0,0,2,500,0,0,0,0,500,0.3,0,0,0,1213.631236
+Settlement,Near Camp,812,406868,644718,Grand Bassa,District # 4,Neetorn,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Gbeinfela,810,538574,805279,Nimba,Yarpea Mahn,Gbein,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Vonzon-Chase,808,304007.4195,710661.2579,Montserra,St. Paul River,Vonzon,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Whynor,808,509373,795915,Nimba,Garr-Bain,Bleingbain,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Balamah I,807,435279,781524,Bong,Suakoko,Suakoko,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Sarkolay,807,558237.4602,809409.5195,Nimba,Gbehlay-Geh,Sango-Zao,,,,0,0,0,0,0,1,250,0,0,1,600,850,0.3,0,0,0,2063.173101
+Settlement,Nyoanplay # 1,807,575618.167,773117.6133,Nimba,Twan River,Loe-Gbao,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Payee,806,529189,786114,Nimba,Gbor,Kerbaye,,,,1,2000,0,0,2000,1,250,0,0,0,0,250,0.3,0,0,8643.88475,606.8156178
+Settlement,Allawala City,805,600214.4936,558933.743,Grand Kru,Dweh,Saywoken,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Barraken,805,648351,497208,Maryland,Pleebo/Sodoken,Twansiebo,,,,1,2000,0,0,2000,0,0,0,0,0,0,0,0.3,0,0,8643.88475,0
+Settlement,Duazon Old Town,803,322901,688777,Margibi,Mambah Kaba,Scheiffelin Township,,,,0,0,0,0,0,2,500,0,0,1,600,1100,0.3,0,0,0,2669.988718
+Settlement,Newcess,802,589418,504200,Grand Kru,Grand Cess Wedabo,New Cess,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Sehwee,801,507658,780714,Nimba,Leewehpea-Mahn,Sephein,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Sopa,800,537641,795076,Nimba,Yarpea Mahn,Duo-ah,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Vaye,798,292637,781269,Gbarpolu,Gbarma,Gbarma,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Gagama Town,798,256056,801983,Grand Cape Mount,Porkpa,Kposo,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Old Peelar,798,551543.0698,803724.8964,Nimba,Gbehlay-Geh,Gbehlay,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Tunudin,798,495518,784355,Nimba,Meinpea-Mahn,Slappa,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Galai,797,439526.6689,784414.5304,Bong,Suakoko,Suakoko,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Saniwein Town,796,420609,694027,Grand Bassa,District # 3,Dohnwein,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Doloken,794,645143,518608,Maryland,Karluway#2,Kanbo,,,,0,0,0,0,0,0,0,0,0,2,1200,1200,0.3,0,0,0,2912.714965
+Settlement,Gbansue Sulonmah I,793,431663.2279,799834.1814,Bong,Zota,Lower Kpa,,,,1,2000,0,0,2000,0,0,0,0,0,0,0,0.3,0,0,8643.88475,0
+Settlement,Boe-Geewon,793,517960,645191,Grand Gedeh,Gboe-Ploe,Neezonnie,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Giant Town,791,636113,509077,Maryland,Karluway#2,Benwen,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Tweh,790,582512,618913,Grand Gedeh,Putu,Bio Wiah,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Kondobengu,789,368383,916690,Lofa,Foya,Luankollie,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Smith,788,319089,797032,Gbarpolu,Gbarma,Yangaya,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Chiliken,788,617219,541785,Maryland,Gwelekpoken,Gbalaken,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Behyepea,788,527714,767514,Nimba,Zoe-Gbao,Whepea,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Vezala,787,400495,925328,Lofa,Voinjama,Lower Workor,,,,1,2000,0,0,2000,0,0,0,0,1,600,600,0.3,0,0,8643.88475,1456.357483
+Settlement,Gbobayee #2,787,544344.028,813698,Nimba,Sanniquellie Mahn,Sehyi,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Goekorpa (Yeagoan),787,493835,703450,Nimba,Yarwein Mehnsonnoh,Blinlon,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Division 27,786,353124.5,713736.8124,Margibi,Firestone,Firestone,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Flowin,786,544088,804834,Nimba,Yarpea Mahn,Gbein,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Juduken (Maplaken),785,606528,510131,Grand Kru,Grand Cess Wedabo,Gbanken,,,,1,2000,0,0,2000,0,0,0,0,0,0,0,0.3,0,0,8643.88475,0
+Settlement,Voipa,785,490031,738938,Nimba,Yarwein Mehnsonnoh,Zehnla,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Gbesee,785,431156.568,630890.629,Rivercess,Fen River,Vor,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Martuken,783,610766,554634,Maryland,Whojah,Fulu,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Nyao,781,516330.9944,759589.3753,Nimba,Wee-Gbehyi-Mahn,Wee,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Jarkaken,780,611231.0032,594592.92,River Gee,Chedepo,Krosoken,,,,1,2000,0,0,2000,0,0,0,0,1,600,600,0.3,0,0,8643.88475,1456.357483
+Settlement,Kawelahun Town,778,276079,819013,Grand Cape Mount,Porkpa,Sokpo,,,,1,2000,0,0,2000,1,250,0,0,0,0,250,0.3,0,0,8643.88475,606.8156178
+Settlement,Tekeiplay,778,554565.1275,786808.4632,Nimba,Twan River,Lower-Gbei,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Married Camp,777,284874,745693,Bomi,Senjeh,Zerpeh,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Kpeikpoa,777,514435,776842,Nimba,Leewehpea-Mahn,Leepea,,,,0,0,0,0,0,1,250,0,0,1,600,850,0.3,0,0,0,2063.173101
+Settlement,Gbama Lumeh,776,259618,793412,Grand Cape Mount,Porkpa,Seimavula,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Division 6,775,338855.6557,699727.0734,Margibi,Firestone,Firestone,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,William Town,774,367369.6734,740567.1452,Margibi,Kakata,Wiah,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Baloma,770,302089,725099,Montserra,St. Paul River,Lower Brewerville,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Division # 16 Long Camp,769,342476.5867,708445.6015,Montserra,Careysburg,Kingsville Township,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Tobogizizu,768,398529,936742,Lofa,Voinjama,Upper Workor,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Tuzon,768,551623,739092,Nimba,Kparblee,Bentuo,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Dougbo City,764,620944,516917,Grand Kru,Trenbo,Dougbo,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Bolahun Town (A),764,372175,910099,Lofa,Kolahun,Wanwoma,,,,0,0,1,12500,12500,0,0,1,500,2,1200,1700,0.3,0,0,54024.27969,4126.346201
+Settlement,Betejama,764,408990,930825,Lofa,Voinjama,Upper Workor,,,,0,0,0,0,0,2,500,0,0,0,0,500,0.3,0,0,0,1213.631236
+Settlement,Division 28 Cubic Camp 1,762,352433.0044,710073.9817,Margibi,Firestone,Firestone,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Gbayee,762,526763,787700,Nimba,Yarpea Mahn,Gbayee,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Jaytoken,762,603432,587706,River Gee,Karforh,Jaytoken,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Boway,759,484516.1498,792450,Bong,Panta,Panta,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Gbanla,759,416885,774507,Bong,Suakoko,Kpatawee,,,,1,2000,0,0,2000,0,0,0,0,0,0,0,0.3,0,0,8643.88475,0
+Settlement,Tailemai,759,450945.1061,847185.8741,Lofa,Salayea,Vavala,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Division 9 Old Camp,757,347909,703687,Margibi,Firestone,Firestone,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Taylay,756,530356,783416,Nimba,Gbor,Kerbaye,,,,0,0,0,0,0,2,500,0,0,0,0,500,0.3,0,0,0,1213.631236
+Settlement,Gaytayeah,755,466795,762018,Bong,Kpaai,Waytuah,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Voloblai,755,445372,793373,Bong,Suakoko,Kporyorqu,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Boy Town Junction,752,328066.2291,686610.4166,Margibi,Mambah Kaba,Scheiffelin Township,,,,1,2000,0,0,2000,1,250,0,0,1,600,850,0.3,0,0,8643.88475,2063.173101
+Settlement,Sumo,751,475199,757064,Bong,Kpaai,Wolota,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,XXXXXXXXXXXXXX,751,300827.5431,712471.9479,Montserra,St. Paul River,Kpalla,,,,0,0,0,0,0,1,250,2,1000,0,0,1250,0.3,0,0,0,3034.078089
+Settlement,Mongbain,750,519623,795957,Nimba,Garr-Bain,Bleingbain,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Gborwuzohn,750,474850.6823,640537.0997,Rivercess,Central Rivercess,Zialu,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Jarpuken,750,577852,572749,Sinoe,Bodae,Toe Wion,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Yarnwullie,748,368381.4783,726510.7825,Margibi,Kakata,Dinnita,,,,1,2000,0,0,2000,0,0,0,0,0,0,0,0.3,0,0,8643.88475,0
+Settlement,Gbehlay,748,576718,793888,Nimba,Twan River,Gborplay,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Slangonplay,748,545703,798009,Nimba,Twan River,Soelay,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Banglorh,747,624693,634189,Grand Gedeh,Konobo,Lower Gbillibo,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Kailahun( A),747,359405.3024,887167.5878,Lofa,Kolahun,Lukasu,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Jarmulor,747,434682.0834,920320.1507,Lofa,Quardu Boundi,Quardu,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Kpeletuo,745,503245,735537,Nimba,Doe,Gbon-Weiplay,,,,0,0,0,0,0,0,0,0,0,2,1200,1200,0.3,0,0,0,2912.714965
+Settlement,Kileapo Kanweaken,745,600626.5868,606875.3513,River Gee,Chedepo,Mt. Pennah,,,,1,2000,0,0,2000,1,250,0,0,1,600,850,0.3,0,0,8643.88475,2063.173101
+Settlement,Jenne Wonde (A),744,249180.5065,782869.1166,Grand Cape Mount,Tewor,Passawe,,,,1,2000,0,0,2000,1,250,0,0,0,0,250,0.3,0,0,8643.88475,606.8156178
+Settlement,Jokoken,744,596395,591870,Sinoe,Jeadepo,Bio Sockkan,,,,1,2000,0,0,2000,0,0,0,0,1,600,600,0.3,0,0,8643.88475,1456.357483
+Settlement,Tinsue,743,439691,838698,Lofa,Salayea,Palama,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Fleneken,742,589045,526698,Grand Kru,Barclayville,Wakpeken Seator,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,S.R.C. Camp II,742,375576.8764,737236.7351,Margibi,Kakata,Dinnita,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Diah,740,240522.432,760951.0846,Grand Cape Mount,Tewor,Fahnbulleh D,,,,1,2000,0,0,2000,1,250,0,0,0,0,250,0.3,0,0,8643.88475,606.8156178
+Settlement,Gayeplay,738,562264,813770,Nimba,Gbehlay-Geh,Lan-Kao,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Dulay,737,561298.4851,825673.704,Nimba,Gbehlay-Geh,Lan-Kao,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Nomodatanau,736,325353,867029,Gbarpolu,Koninga,Jawajeh,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Bunadin,735,492081,775044,Nimba,Meinpea-Mahn,Zehyee,,,,1,2000,0,0,2000,0,0,0,0,1,600,600,0.3,0,0,8643.88475,1456.357483
+Settlement,Langbemba1,734,359626.6524,908325.489,Lofa,Foya,Tengia,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Careysburg,734,328404.507,707762.0422,Montserra,Careysburg,Careyburg City,,,,0,0,1,12500,12500,0,0,1,500,0,0,500,0.3,0,0,54024.27969,1213.631236
+Settlement,Koon,734,329752,730093,Montserra,Todee,Mehn,,,,1,2000,0,0,2000,1,250,0,0,2,1200,1450,0.3,0,0,8643.88475,3519.530583
+Settlement,Beh,733,280377,731915,Bomi,Dowein,Deygbo,,,,1,2000,0,0,2000,1,250,0,0,0,0,250,0.3,0,0,8643.88475,606.8156178
+Settlement,Salaya,733,372451,802050,Gbarpolu,Bokomu,Lower Bok,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Charlie,732,413206,660982,Grand Bassa,District # 4,Doegbahn,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Gwehlay,732,525101,766655,Nimba,Zoe-Gbao,Whepea,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Than Town A,731,290142.0631,786119.5638,Grand Cape Mount,Golakonneh,Mana,,,,1,2000,0,0,2000,0,0,0,0,0,0,0,0.3,0,0,8643.88475,0
+Settlement,Nanakru,731,530112,534071,Sinoe,Dugbe River,Nana Kru,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Gohn,730,267707,756775,Grand Cape Mount,Garwula,Zodua,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Tolomanai,729,457904.7429,761144.3392,Bong,Jorquelleh,Gbanshay,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Boawohun,729,373916,903329,Lofa,Kolahun,Lukasu,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,John Davis,728,599358,629869,Grand Gedeh,Putu,Lower Jebebo,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Newaken,728,621118,534645,Maryland,Gwelekpoken,Sikliken,,,,1,2000,0,0,2000,1,250,0,0,0,0,250,0.3,0,0,8643.88475,606.8156178
+Settlement,Freetown,728,664793.6698,591319.4271,River Gee,Glaro,Gbarlahn,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Gonkartee Pa,727,521706,762485,Nimba,Wee-Gbehyi-Mahn,Wee,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Tempo,726,664425,644225,Grand Gedeh,Glio-Twarbo,Chattan,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Worsongar,726,358974,924520,Lofa,Foya,Tengia,,,,1,2000,0,0,2000,1,250,0,0,0,0,250,0.3,0,0,8643.88475,606.8156178
+Settlement,Kondesu,725,377684,847843,Gbarpolu,Belleh,Lobarsu,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Garleo,724,659091,639439,Grand Gedeh,Glio-Twarbo,Chattan,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Gwelekpoken,724,622047.1677,552658.5818,Maryland,Gwelekpoken,Sikliken,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Nyama Kamadu,723,429677,927767,Lofa,Quardu Boundi,Quardu,,,,0,0,0,0,0,2,500,0,0,0,0,500,0.3,0,0,0,1213.631236
+Settlement,xxxxxxxxxx,721,366792.4784,740385.4914,Margibi,Kakata,Wiah,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Bilibokree,721,517466,595029,Sinoe,Juarzon,Clahngbadi,,,,1,2000,0,0,2000,1,250,0,0,1,600,850,0.3,0,0,8643.88475,2063.173101
+Settlement,Gbuyee,719,498409,799314,Nimba,Garr-Bain,Bain,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Bohay,718,251716,796742,Grand Cape Mount,Porkpa,Seimavula,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,xxxxxxxxxx,718,366627.5872,739808.3724,Margibi,Kakata,Wiah,,,,1,2000,0,0,2000,1,250,0,0,1,600,850,0.3,0,0,8643.88475,2063.173101
+Settlement,Debbah,717,410636,647240,Grand Bassa,District # 4,Neetorn,,,,0,0,0,0,0,2,500,0,0,0,0,500,0.3,0,0,0,1213.631236
+Settlement,Gblarlay,717,562834,743327,Nimba,Buu-Yao,Ninkwea,,,,1,2000,0,0,2000,1,250,0,0,0,0,250,0.3,0,0,8643.88475,606.8156178
+Settlement,Sam Beach Gold Mine,717,469187.9696,637351.8237,Rivercess,Central Rivercess,Zialu,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Foday-ta,716,381594,781443,Gbarpolu,Gounwolaila,Gou,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Gbloulay,716,553873.7312,761950.5376,Nimba,Buu-Yao,Yao-Kwahkerlah,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Gbecohn,715,452253,736964,Bong,Tukpahblee,Soel,,,,1,2000,0,0,2000,0,0,0,0,1,600,600,0.3,0,0,8643.88475,1456.357483
+Settlement,Ghanaglay,715,571352.3509,778551.6491,Nimba,Twan River,Gborplay,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Kiamue Giah,714,428638,698365,Grand Bassa,District # 3,Deegba,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Barforwin,714,565529,538602,Grand Kru,Fenetoe,Barmeneh,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Bombor Old Town,713,268094.6496,803638.5695,Grand Cape Mount,Porkpa,Kposo,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Jiama Village,713,276530,819230,Grand Cape Mount,Porkpa,Sokpo,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Kimbalahun,713,364844,901629,Lofa,Kolahun,Hassala,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Kidka,713,508939,698205,Nimba,Gbi & Doru,Nyenvor,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Najor / Camp-2,713,503803,570468,Sinoe,Wedjah,Sorgbeyee,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Muita,712,447809.2953,747887.5705,Bong,Jorquelleh,Sheansue,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Mambo Town A,711,246597.4546,774569.3899,Grand Cape Mount,Tewor,Passawe,,,,1,2000,0,0,2000,1,250,0,0,0,0,250,0.3,0,0,8643.88475,606.8156178
+Settlement,Tian,711,556693,692444,Grand Gedeh,B'hai,Tian-Duogee,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Browne,711,347618.7957,696583.1326,Margibi,Mambah Kaba,Charsville,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Manunvordor,710,404679,831319,Gbarpolu,Belleh,Bade,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Zoloken & Gbarken,708,597081.2264,512877.5031,Grand Kru,Grand Cess Wedabo,Zoloken,,,,1,2000,0,0,2000,4,1000,0,0,2,1200,2200,0.3,0,0,8643.88475,5339.977437
+Settlement,Division 2-Rubber Bed,708,650069,505343,Maryland,Pleebo/Sodoken,Gedetarbo,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Duogomai Town Center,707,419573.0286,904840.3714,Lofa,Voinjama,Bondi,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Gebio Mission,706,648584,506875,Maryland,Pleebo/Sodoken,Pleebo/Gbolorbo,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Gbazon,706,510219,587693,Sinoe,Juarzon,Krajlahson,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Bleevalay,704,526482,758941,Nimba,Zoe-Gbao,Whepea,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Fleh-la,703,385735,747885,Bong,Salala,Kpartolee,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Korsein,703,521104,783290,Nimba,Gbor,Gbor,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Dohn,703,509978,773428,Nimba,Leewehpea-Mahn,Yarpea,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Sinyea,702,438757.9249,779662.9549,Bong,Suakoko,Suakoko,,,,0,0,0,0,0,2,500,0,0,1,600,1100,0.3,0,0,0,2669.988718
+Settlement,Bowein,701,293289,730789,Bomi,Dowein,Upper Zoh,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Binda,700,505321,781889,Nimba,Leewehpea-Mahn,Sephein,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Wangekor,699,248353,766250,Grand Cape Mount,Garwula,Gion,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Gondorlahun,698,383711,880528,Lofa,Kolahun,Hembeh,,,,1,2000,0,0,2000,1,250,0,0,0,0,250,0.3,0,0,8643.88475,606.8156178
+Settlement,Nyonkiayee,698,496036.4119,754525.4715,Nimba,Yarwein Mehnsonnoh,Mehnsonnoh,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Gbanlah,696,516272,774608,Nimba,Wee-Gbehyi-Mahn,Ylan,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Boe Tounwea,693,551649,755641,Nimba,Boe & Quilla,Boe,,,,0,0,0,0,0,2,500,0,0,0,0,500,0.3,0,0,0,1213.631236
+Settlement,Nanlah,693,563606,774354,Nimba,Buu-Yao,Vanwea,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Kpawolozu,692,415909,841813,Gbarpolu,Belleh,Bade,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Dweh,690,624213,639669,Grand Gedeh,Konobo,Upper Gbillibo,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Marverkonnedu,690,426129.9022,931692.9937,Lofa,Quardu Boundi,Quardu,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Wulu,690,515679.155,593627.085,Sinoe,Juarzon,Kalaboe,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Nimba Point,689,274833,744035,Grand Cape Mount,Garwula,Manobalah A,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Fassawolo,689,382662,927786,Lofa,Kolahun,Tahamba,,,,1,2000,0,0,2000,1,250,0,0,0,0,250,0.3,0,0,8643.88475,606.8156178
+Settlement,Bulor,688,431159,913714,Lofa,Quardu Boundi,Quardu,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Old Government camp-Diyankpo,688,562266.1526,556725.4263,Sinoe,Bokon,Gbarta,,,,1,2000,0,0,2000,0,0,0,0,0,0,0,0.3,0,0,8643.88475,0
+Settlement,Blaiken,687,615185,602695,River Gee,Chedepo,Krosoken,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Tarkpoima,686,314824,792936,Gbarpolu,Gbarma,Yangaya,,,,1,2000,0,0,2000,0,0,0,0,1,600,600,0.3,0,0,8643.88475,1456.357483
+Settlement,Division 5 New Camp,685,344130,700696,Margibi,Firestone,Firestone,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Gbesseh (A),684,242373.7966,767488.627,Grand Cape Mount,Tewor,Fahnbulleh D,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Ganwee,683,500559,745203,Nimba,Yarwein Mehnsonnoh,Mehnsonnoh,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Kainakai,682,420552,703329,Grand Bassa,District # 3,Dohnwein,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Whipa,681,507465,803076,Nimba,Garr-Bain,Garr,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Mano Gleh,680,257833,791158,Grand Cape Mount,Porkpa,Seimavula,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Zoryeah,679,468627.6791,667772.082,Rivercess,Jo River,Sawpue,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Leleh,678,463664.9535,759215.8656,Bong,Jorquelleh,Sheansue,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Gbeyanka,678,398535,850917,Gbarpolu,Belleh,Lobarsu,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Karwin,678,531321,791480,Nimba,Yarpea Mahn,Gbayee,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Alasala,677,308784,728021,Bomi,Suehn Mecca,Gbor,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Zawordamai,677,395087,920580,Lofa,Voinjama,Lower Workor,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Buttein,677,512693,775473,Nimba,Leewehpea-Mahn,Leepea,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Klehn,676,461708,725936,Grand Bassa,District # 3,Norwein,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Loyee,676,519767,760024,Nimba,Wee-Gbehyi-Mahn,Wee,,,,0,0,0,0,0,3,750,0,0,1,600,1350,0.3,0,0,0,3276.804336
+Settlement,Guie Town,675,295583.7925,747368.2898,Bomi,Klay,Manna,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Kiatiahun (A),675,367030.9062,902097.4781,Lofa,Kolahun,Hassala,,,,1,2000,0,0,2000,0,0,0,0,0,0,0,0.3,0,0,8643.88475,0
+Settlement,Kayweah,674,459448,581000,Sinoe,Sanquin Dist# 3,Tuo,,,,0,0,0,0,0,2,500,0,0,0,0,500,0.3,0,0,0,1213.631236
+Settlement,Gondor Town,673,303993.8894,795491.3745,Grand Cape Mount,Golakonneh,Laar,,,,0,0,0,0,0,2,500,0,0,0,0,500,0.3,0,0,0,1213.631236
+Settlement,Phebe Hosptial Compund,672,438936.0721,776871.9816,Bong,Suakoko,Suakoko,,,,0,0,0,0,0,1,250,0,0,1,600,850,0.3,0,0,0,2063.173101
+Settlement,Kpayglay,672,529093,783814,Nimba,Gbor,Kerbaye,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Pasolahun,671,375468.449,881137.4875,Lofa,Kolahun,Hembeh,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Whayee,670,531541,691100,Grand Gedeh,Gboe-Ploe,Joezon,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Bao,669,654893.3745,648138.5658,Grand Gedeh,Glio-Twarbo,Gboawon,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Down Town,669,635089,487045,Maryland,Harper,Rock Town,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Tompoe # 2,669,432819.9599,634566.5958,Rivercess,Norwein,Wheasayn,,,,0,0,0,0,0,3,750,0,0,0,0,750,0.3,0,0,0,1820.446853
+Settlement,Golodee Lasannah,667,277354,739439,Bomi,Klay,Gorblah,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Gelema,667,374880,869373,Lofa,Kolahun,Hembeh,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Nekeba II,667,432787,901369,Lofa,Zorzor,Zeayeama,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Kileaken,666,608889,571377,River Gee,Nyenawliken,Gedeken,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Kowai,665,472959,775542,Bong,Kpaai,Waytuah,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Benda,665,252310,792207,Grand Cape Mount,Porkpa,Seimavula,,,,1,2000,0,0,2000,1,250,0,0,1,600,850,0.3,0,0,8643.88475,2063.173101
+Settlement,Lowlay,664,548643,793492,Nimba,Twan River,Soelay,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Nyeanyee,661,507719.4822,763173.2514,Nimba,Wee-Gbehyi-Mahn,Lowee,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Saywon -2,661,490598,590041.309,Sinoe,Kulu Shaw Boe,Lower Kulu,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Bear -Bear Camp,660,417205,668452,Grand Bassa,District # 4,L A C Plantation,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Wiah Town,660,499717,584964,Sinoe,Plahn Nyarn,Upper Plahn,,,,1,2000,0,0,2000,1,250,0,0,0,0,250,0.3,0,0,8643.88475,606.8156178
+Settlement,Division 5 Camp 8,659,655471,504791,Maryland,Pleebo/Sodoken,Gedetarbo,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Tengbein,659,508810,763355,Nimba,Wee-Gbehyi-Mahn,Borpea,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Glay,658,622170,624016,Grand Gedeh,Konobo,Lower Gbillibo,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Kpalla-Thompson/Esther Lincoln/Bassa/Vonzon-Moulton Corne,658,299803.7248,712258.4054,Montserra,St. Paul River,Kpalla,,,,0,0,0,0,0,2,500,0,0,0,0,500,0.3,0,0,0,1213.631236
+Settlement,Gobah,658,340662,718355,Montserra,Todee,Fahn-Seh,,,,0,0,0,0,0,2,500,0,0,1,600,1100,0.3,0,0,0,2669.988718
+Settlement,Jaytoken,658,634438,583740,River Gee,Potupo,Jaytoken,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Mecca,657,280684,771321,Grand Cape Mount,Golakonneh,Darblo,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Managrordellah,657,291033,792164,Grand Cape Mount,Golakonneh,Mana,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Division 23,656,351633.125,710130.9766,Margibi,Firestone,Firestone,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Headquarter (CVI),655,611346,623759,Grand Gedeh,Konobo,Lower Gbillibo,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Kpalla-Brisbane Road,654,301271.9186,710017.7976,Montserra,St. Paul River,Kpalla,,,,0,0,0,0,0,1,250,2,1000,1,600,1850,0.3,0,0,0,4490.435572
+Settlement,Kollie-Ta,653,457236.7815,800909.9278,Bong,Zota,Zota,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Newaken(Wortaken City,651,618038,518930,Grand Kru,Trenbo,Newaken,,,,1,2000,0,0,2000,0,0,0,0,0,0,0,0.3,0,0,8643.88475,0
+Settlement,Plandialebo,651,507866.871,601047.737,Sinoe,Plahn Nyarn,Nyarn,,,,0,0,1,12500,12500,0,0,0,0,0,0,0,0.3,0,0,54024.27969,0
+Settlement,Central,650,532454,781126,Nimba,Zoe-Gbao,Zoe,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Garzohn Old camp,649,416806,674124,Grand Bassa,District # 3,L A C Plantation,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Bokay,648,359239,686773,Grand Bassa,Owensgrove,Giah,,,,1,2000,0,0,2000,2,500,0,0,0,0,500,0.3,0,0,8643.88475,1213.631236
+Settlement,Nyeyama,648,326950,881732,Lofa,Vahun,Lower Gum,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Via,647,321494.6757,688450.8021,Margibi,Mambah Kaba,Scheiffelin Township,,,,0,0,0,0,0,9,2250,0,0,4,2400,4650,0.3,0,0,0,11286.77049
+Settlement,Gbarteah,647,302510.3875,707388.5431,Montserra,St. Paul River,Gbarteah,,,,9,18000,3,37500,55500,102,25500,6,3000,69,41400,69900,0.3,0,0,239867.8018,169665.6467
+Settlement,Division 42,645,350161.1719,699751.6797,Margibi,Firestone,Firestone,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Garzon Reccess,645,342476.5867,708070.2862,Montserra,Careysburg,Kingsville Township,,,,0,0,0,0,0,2,500,0,0,0,0,500,0.3,0,0,0,1213.631236
+Settlement,Boba Junction,644,258472.0721,795792.6771,Grand Cape Mount,Porkpa,Kposo,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Shankpowai I,642,482405.1174,790244.5958,Bong,Panta,Panta,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Monclay,642,346743.6094,691545.8672,Margibi,Mambah Kaba,Kpaye,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Division 1-Old Camp,642,647224,503318,Maryland,Pleebo/Sodoken,Gedetarbo,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Division # 17,641,338559.2768,709504.5491,Montserra,Careysburg,Kingsville Township,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Gbamaken # 1,640,641041,519593,Maryland,Karluway#2,Wlebo,,,,0,0,0,0,0,2,500,0,0,0,0,500,0.3,0,0,0,1213.631236
+Settlement,Nyennfueh,640,497386,582094,Sinoe,Plahn Nyarn,Lower Plahn,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Nyoanplay,639,560230,807310,Nimba,Gbehlay-Geh,Sango-Zao,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Please Camp,639,559672,639269,Sinoe,Seekon,Voogbadee,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Garmoquelleh,637,437716,752548,Bong,Yeallequelleh,Yeanawoun,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Sankarplay,637,530485,766044,Nimba,Boe & Quilla,Gosenter,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Mafliken,636,624879,540885,Maryland,Nyorken,Koyo,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Tuudin,636,489834,793385,Nimba,Meinpea-Mahn,Zehyee,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Tunukpuyee,635,499228,784299,Nimba,Meinpea-Mahn,Slappa,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Quoipa,634,484896,752461,Bong,Kpaai,Wolota,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Guo,634,472592.7682,699381.0186,Rivercess,Doedain,Bahr,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Druwar,633,645949,651215,Grand Gedeh,Konobo,Lower Gbardru,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Bannah New Town,632,499524.7717,551648.1275,Sinoe,Kpayan,Worter,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Yallahun,631,355392,898953,Lofa,Kolahun,Hassala,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Dvision 13 Camp,631,344965.3698,705478.8088,Montserra,Careysburg,Kingsville Township,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Oneway,629,490576,592022,Sinoe,Kulu Shaw Boe,Lower Kulu,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Division 4 Palm  Camp,628,650787,506522,Maryland,Pleebo/Sodoken,Gedetarbo,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Farwehnta,627,332002,782550,Gbarpolu,Bopolu,Bondi Man,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,King George,627,264097.1483,775457.7562,Grand Cape Mount,Golakonneh,Darblo,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Passama,627,446204.6531,848854.3738,Lofa,Zorzor,Gizima,,,,0,0,0,0,0,2,500,0,0,0,0,500,0.3,0,0,0,1213.631236
+Settlement,Teahplay (Buyealay),627,567190.6859,745061.5449,Nimba,Buu-Yao,Ninkwea,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,New Peelar,627,546085,805564,Nimba,Yarpea Mahn,Gbein,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Selega,626,420964,929575,Lofa,Voinjama,Upper Workor,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Division 34,626,358099.0521,714503.9175,Margibi,Firestone,Firestone,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Gblo/Bar,626,482221.3969,711322.7034,Rivercess,Doedain,Bahr,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Garyeazohn,626,425458.6629,613318.9346,Rivercess,Fen River,Garyea Zohn,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Kamatahum???,625,374089.681,923279.8358,Lofa,Kolahun,Tahamba,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Buehplay,625,574164,756361,Nimba,Buu-Yao,Nyor,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Boedrum,625,420719.6869,614478.802,Rivercess,Fen River,Guah Naway,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Yonyee,624,536148,804090,Nimba,Yarpea Mahn,Gbein,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,U-La,623,473722,745337,Bong,Boinsen,Boinwein,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Wakesu B,621,448376.839,882538.0805,Lofa,Zorzor,Zeayeama,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Kpalla-Kulaken,621,300735.9641,710521.4657,Montserra,St. Paul River,Kpalla,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Tenge-Ta,620,396972,797620,Gbarpolu,Gounwolaila,Nwolaila,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Varguaye,620,283636,791857,Grand Cape Mount,Golakonneh,Mana,,,,1,2000,0,0,2000,1,250,0,0,0,0,250,0.3,0,0,8643.88475,606.8156178
+Settlement,Pundandu,618,369401,936306,Lofa,Foya,Waum,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Zannah,618,343857.4101,742238.714,Montserra,Todee,Kpo,,,,1,2000,0,0,2000,2,500,0,0,0,0,500,0.3,0,0,8643.88475,1213.631236
+Settlement,Sappinmah,616,337616,782767,Gbarpolu,Bopolu,Bondi Man,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Duside Village,615,338150.9063,701807.9219,Margibi,Firestone,Firestone,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Fiaplay,614,538327,782048,Nimba,Gbor,Duobehyee,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Malamai,613,416393,926971,Lofa,Voinjama,Upper Workor,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Blagbahn,612,405310,665572,Grand Bassa,Neekreen,Tubmanville,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Sarworlor,611,475258,783690,Bong,Kpaai,Waytuah,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Timba,611,315786,819105,Gbarpolu,Koninga,Zuie,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Kpassagizia,609,451849.7975,885968.6652,Lofa,Zorzor,Zeayeama,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Mesila,607,264796,749371,Grand Cape Mount,Garwula,Kiazolu 1A,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Tojallah,607,575494,673485,Grand Gedeh,Gbao,Wromel,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Nemiah (Wilsonville C,607,626030,497618,Grand Kru,Garraway,Upper Nimiah,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Savalahun,607,373529,921401,Lofa,Kolahun,Tahamba,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Dorgbor,607,495339,663423,Nimba,Gbi & Dor,Telbawein,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Gbajobu,606,326877,889848,Lofa,Vahun,Lower Gum,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Kornduma,603,367871,924435,Lofa,Foya,Luankollie,,,,0,0,1,12500,12500,0,0,0,0,1,600,600,0.3,0,0,54024.27969,1456.357483
+Settlement,Zimidandai Town Hall,602,261945.6426,798939.2275,Grand Cape Mount,Porkpa,Kposo,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Jacob Pue,602,435114.6716,631544.0837,Rivercess,Norwein,Wheasayn,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Down the Mogroove,602,496114.572,554487.6668,Sinoe,Greenville,Zone 2-Po River,,,,1,2000,0,0,2000,3,750,1,500,1,600,1850,0.3,0,0,8643.88475,4490.435572
+Settlement,Tassah,601,467493,765630,Bong,Kpaai,Waytuah,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Bombor Dasalamu,600,250079,799704,Grand Cape Mount,Porkpa,Seimavula,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,BollorQuelleh,600,365262.6347,742263.0271,Margibi,Kakata,Wiah,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Borbor,599,300200,763396,Bomi,Senjeh,LowerToga,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Wessaitoken,599,647781,562386,River Gee,Tuobo,Nyentiabo,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Division 29 Church,598,356838.7863,708331.9693,Margibi,Firestone,Firestone,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Middle Town,598,633118,487909,Maryland,Harper,Fish  Town,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Jacob Lorteh/ DC,597,363554,712345,Grand Bassa,District # 1,Mehwein,,,,1,2000,0,0,2000,0,0,0,0,0,0,0,0.3,0,0,8643.88475,0
+Settlement,"Henriesville City,Fil",597,593523.4374,520901.989,Grand Kru,Barclayville,Gballakpo,,,,1,2000,0,0,2000,6,1500,0,0,1,600,2100,0.3,0,0,8643.88475,5097.251189
+Settlement,Bardobozohn,597,437663.5083,609348.7525,Rivercess,Zarflahn,Boewein Toba,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Porkpa-ta B,596,384750.1505,808605.8164,Gbarpolu,Bokomu,Upper Bok,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Kornorsue Tengia,596,357773,912914,Lofa,Foya,Tengia,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Subah,596,343766,722199,Montserra,Todee,Fahn-Seh,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Ndambu,595,380907,908285,Lofa,Kolahun,Tahamba,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Tonwin,595,489049,796181,Nimba,Meinpea-Mahn,Zehyee,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Neyanyarlah,594,440198.7513,762666.3061,Bong,Yeallequelleh,Yeanawoun,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Division 6,593,338504.6729,700515.082,Margibi,Firestone,Firestone,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Malema Gorblah,592,281948,737659,Bomi,Klay,Gorblah,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Gbloulay,592,553826.8631,762193.7362,Nimba,Buu-Yao,Yao-Kwahkerlah,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Sembehum,590,242067,741965,Grand Cape Mount,Commonwealth,Lower Tombey,,,,1,2000,0,0,2000,1,250,0,0,0,0,250,0.3,0,0,8643.88475,606.8156178
+Settlement,Woloken #1,590,592457,544355,Grand Kru,Gee,Gissaken,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Yengama,590,355724,903384,Lofa,Kolahun,Hassala,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Saywonken,590,595377,581721,River Gee,Karforh,Woloken,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Nyain I,589,411760,783199,Bong,Sanoyeah,Menquelle,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Sadu Passia,589,370212,931313,Lofa,Foya,Luankollie,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Gokai,588,425954,783479,Bong,Suakoko,Kpatawee,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Tahnplay,587,557568,766499,Nimba,Buu-Yao,Yao-Kwahkerlah,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Kaylay,586,554862,733264,Nimba,Kparblee,Dubuzon,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Mende,585,340906,707683,Montserra,Careysburg,Kingsville Township,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Gbloulay,585,553573.6908,762003.857,Nimba,Buu-Yao,Yao-Kwahkerlah,,,,1,2000,0,0,2000,2,500,0,0,1,600,1100,0.3,0,0,8643.88475,2669.988718
+Settlement,Ghanaglay,585,571312.0153,779281.1264,Nimba,Twan River,Gborplay,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Tartuo,584,572946,770257,Nimba,Twan River,Loe-Gbao,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Nyeanawon,582,440175,757222,Bong,Yeallequelleh,Yeanawoun,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Tuglor,582,620774,646608,Grand Gedeh,Konobo,Upper Gbillibo,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Yegbedu,582,365077,910088,Lofa,Foya,Luankollie,,,,1,2000,0,0,2000,1,250,0,0,0,0,250,0.3,0,0,8643.88475,606.8156178
+Settlement,Division 28 Cubic Camp 1,581,352864.6974,711121.1927,Margibi,Firestone,Firestone,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Division 19,581,345720.8397,712427.78,Montserra,Todee,Fahn-Seh,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Fleedin,581,508375,754074,Nimba,Wee-Gbehyi-Mahn,Borpea,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Glehyee Zorpea,581,490462.5844,751973.226,Nimba,Yarwein Mehnsonnoh,Mehnsonnoh,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Sue,580,476610,725027,Grand Bassa,District # 3,Norwein,,,,1,2000,0,0,2000,1,250,0,0,0,0,250,0.3,0,0,8643.88475,606.8156178
+Settlement,Plunkor,580,300039.5479,714273.9087,Montserra,St. Paul River,Kpor,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Jarwajeih,579,330542,868933,Gbarpolu,Kongba,Jawajeh,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Mawayasu,579,379515,900629,Lofa,Kolahun,Lukasu,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Naai I,578,439923.1881,768138.563,Bong,Suakoko,Suakoko,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Gweemenie,578,373010.5276,751093.3186,Margibi,Kakata,Wiah,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Beo-Yoolar,578,575048,779567,Nimba,Twan River,Gborplay,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Kangbo,578,476874.9665,692607.5556,Rivercess,Doedain,Bahr,,,,1,2000,0,0,2000,0,0,0,0,2,1200,1200,0.3,0,0,8643.88475,2912.714965
+Settlement,Quekia,577,427336,704927,Grand Bassa,District # 3,Deegba,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Lukamai,577,445855,924140,Lofa,Quardu Boundi,Quardu,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Guahn,577,508396,766577,Nimba,Leewehpea-Mahn,Yarpea,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Jalay,577,520771,591876,Sinoe,Wedjah,Twinboe,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Boliah,575,379141.0927,789264.0066,Gbarpolu,Gounwolaila,Gou,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Beo-Yoolar,575,575366.5905,779814.7813,Nimba,Twan River,Gborplay,,,,0,0,0,0,0,0,0,0,0,2,1200,1200,0.3,0,0,0,2912.714965
+Settlement,Wennie Ta,573,386525,762347,Bong,Sanoyeah,Bonkomu,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Zuanni,573,233795.6822,767913.4143,Grand Cape Mount,Tewor,Sambola E,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Doewen,573,581112,555778,Grand Kru,Dorbor,Chanbeti,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Worhn,573,388033.3931,729134.2889,Margibi,Gibi,Gbarfen,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Pohan (New),571,610459,689362,Grand Gedeh,Cavala,Niao,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Gbahnwin,571,531382,788523,Nimba,Gbor,Zor-2,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Buen,570,466322.7928,686445.7817,Rivercess,Doedain,Zarkue,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Solokpo,568,577036.2516,510459.6107,Grand Kru,Barclayville,Klipo,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Nyankunkpo,568,568416,539838,Grand Kru,Fenetoe,Barmeneh,,,,1,2000,0,0,2000,0,0,0,0,0,0,0,0.3,0,0,8643.88475,0
+Settlement,Yasselahun,568,378661,874577,Lofa,Kolahun,Hembeh,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Kolochoe,567,373020,932954,Lofa,Foya,Waum,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Mamekonnedu,567,434526.291,928052.372,Lofa,Quardu Boundi,Quardu,,,,0,0,0,0,0,2,500,0,0,0,0,500,0.3,0,0,0,1213.631236
+Settlement,Tartuken,567,613820,569494,River Gee,Nyenawliken,Jargboken,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Nyenpa,566,527093,782460,Nimba,Zoe-Gbao,Leepea,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Steward/Chio #1,566,430472.3404,628693.3908,Rivercess,Fen River,Vor,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Mbama,565,357321,845030,Gbarpolu,Koninga,Zuie,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Janyea,563,441479.2723,740687.5447,Bong,Jorquelleh,Gbanshay,,,,1,2000,0,0,2000,1,250,0,0,0,0,250,0.3,0,0,8643.88475,606.8156178
+Settlement,Zeongar,562,469501,726476,Grand Bassa,District # 3,Norwein,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Gombu,562,359369,903153,Lofa,Kolahun,Hassala,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Garyea,561,425086.5959,745771.3536,Bong,Yeallequelleh,Garyea,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Bangoma,561,256036.4072,783236.6804,Grand Cape Mount,Tewor,Passawe,,,,1,2000,0,0,2000,0,0,0,0,1,600,600,0.3,0,0,8643.88475,1456.357483
+Settlement,Kpengbelahun,560,370526,900979,Lofa,Kolahun,Lukasu,,,,0,0,0,0,0,2,500,0,0,0,0,500,0.3,0,0,0,1213.631236
+Settlement,Sopeay,560,535612.1688,809135.2208,Nimba,Sanniquellie Mahn,Sehyi,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Central - Mansuaplay,560,568638,776417,Nimba,Twan River,Gborplay,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Yargar,560,432559.3223,636093.4399,Rivercess,Norwein,Wheasayn,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Volomeni,559,395714.9286,782992.0729,Bong,Sanoyeah,Dingmah,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Central Crozierville,559,319151.5397,713687.781,Montserra,Careysburg,Crozierville Township,,,,1,2000,0,0,2000,0,0,0,0,0,0,0,0.3,0,0,8643.88475,0
+Settlement,Cocopa Camp 8,559,520824,787970,Nimba,Leewehpea-Mahn,Siateh,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,AMA Sign Board,558,317747,836898,Gbarpolu,Kongba,Jawajeh,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Voogbadee,557,551165.5918,639283.7148,Sinoe,Seekon,Voogbadee,,,,1,2000,0,0,2000,0,0,0,0,0,0,0,0.3,0,0,8643.88475,0
+Settlement,Gorbo Jellue,556,581619,661398,Grand Gedeh,Cavala,Gorbo,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Nyenawliken Sweaken,556,613208,573506,River Gee,Nyenawliken,Jargboken,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Konjade,555,394297,833615,Gbarpolu,Belleh,Bade,,,,0,0,0,0,0,2,500,0,0,0,0,500,0.3,0,0,0,1213.631236
+Settlement,Division 2-Driver Camp,555,649612,505750,Maryland,Pleebo/Sodoken,Gedetarbo,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Bomboja,554,269553,732271,Grand Cape Mount,Garwula,Kiazolu 1C,,,,1,2000,0,0,2000,0,0,0,0,0,0,0,0.3,0,0,8643.88475,0
+Settlement,Kilewu,553,447913,855331,Lofa,Zorzor,Gizima,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Ballah,552,278123,744393,Grand Cape Mount,Garwula,Manobalah A,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Mendicorma,552,360079,935791,Lofa,Foya,Tengia,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,L.P.M.C Camp,552,413107,928284,Lofa,Voinjama,Upper Workor,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Kitoma,552,524859.093,807934.65,Nimba,Sanniquellie Mahn,Gboa,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Weteken,550,623355.4283,503010.8069,Grand Kru,Garraway,Upper Garraway,,,,0,0,0,0,0,1,250,0,0,1,600,850,0.3,0,0,0,2063.173101
+Settlement,Cocopa Camp 5,550,519629,786271,Nimba,Leewehpea-Mahn,Siateh,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Yeakomue,549,415200,779368,Bong,Sanoyeah,Menquelle,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Hartford,549,386830,664016,Grand Bassa,St. John River City,Hartford Ward,,,,0,0,0,0,0,2,500,0,0,0,0,500,0.3,0,0,0,1213.631236
+Settlement,Sandemane Quarter,549,337934.7737,710616.1647,Montserra,Careysburg,Kingsville Township,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Nyewraken,548,648333,525273,Maryland,Karluway#2,Nyewraken,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Beo-Yoolar,548,575359.003,779253.3056,Nimba,Twan River,Gborplay,,,,1,2000,0,0,2000,0,0,0,0,0,0,0,0.3,0,0,8643.88475,0
+Settlement,Shelloe,547,367846,927049,Lofa,Foya,Luankollie,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Woloken,547,599347,583269,River Gee,Karforh,Woloken,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Hangala,546,379741,896995,Lofa,Kolahun,Lukasu,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Viway,545,346663.9324,680877.0275,Margibi,Mambah Kaba,Marshall City,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Zingbor,545,329723,723243,Montserra,Todee,Mount Coffee Township,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,D 9 (Varney Foboi Camp),544,279681,745827,Grand Cape Mount,Garwula,Manobalah A,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Dolo,544,345591,724613,Montserra,Todee,Fahn-Seh,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Wruzohn,544,432652.8472,608167.532,Rivercess,Zarflahn,Boewein Toba,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Gbarnga  Cutting Garden,543,438108.0681,776674.4085,Bong,Suakoko,Suakoko,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Gbaa Foboi,543,280516.0742,743936.8997,Grand Cape Mount,Garwula,Manobalah A,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Po-River Big,542,605249,501487,Grand Kru,Garraway,Po-River Big Town,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Konia,542,439893.4758,880033.2212,Lofa,Zorzor,Zeayeama,,,,0,0,1,12500,12500,1,250,0,0,1,600,850,0.3,0,0,54024.27969,2063.173101
+Settlement,Gleelay,542,564745,744383,Nimba,Buu-Yao,Ninkwea,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Tondin,542,511876,799158,Nimba,Garr-Bain,Garr,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Dolo,540,469138,739878,Bong,Boinsen,Boinwein,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Walker,540,325551,707277,Montserra,Careysburg,Careyburg City,,,,0,0,0,0,0,2,500,0,0,0,0,500,0.3,0,0,0,1213.631236
+Settlement,Kronoken City,539,652980,538950,River Gee,Nyenebo,Dougboken,,,,1,2000,0,0,2000,3,750,0,0,2,1200,1950,0.3,0,0,8643.88475,4733.161819
+Settlement,Deneken,538,606152,519314,Grand Kru,Grand Cess Wedabo,Zoloken,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Boi Village,538,435380.7156,874108.6372,Lofa,Zorzor,Zeayeama,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Siaffa,538,367458,740180,Margibi,Kakata,Wiah,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Gbenetuo,538,538437,757135,Nimba,Boe & Quilla,Quella,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Nyarlay,538,558447.1813,769436.9512,Nimba,Buu-Yao,Yao-Kwahkerlah,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Jlateken (Tarlu City),537,588120.8754,543652,Grand Kru,Kpi,Dartuken,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Barlorplay,537,563604,760216,Nimba,Buu-Yao,Nyor-Diabarlor,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Kpoahpa,537,505576,787327,Nimba,Leewehpea-Mahn,Sephein,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Joquiken,537,607001.4457,567057.2988,River Gee,Nyenawliken,Gedeken,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Raymond Ta I,535,432217.3152,783199.7312,Bong,Suakoko,Kpatawee,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Largor,535,253447,787989,Grand Cape Mount,Porkpa,Seimavula,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Tarloe Joe,535,434172.952,623132.8364,Rivercess,Fen River,Banama,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Gou,534,426101.3809,794100.4471,Bong,Sanoyeah,Menquelle,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Yaniquellie,533,390326,760520,Bong,Salala,Konoyea,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Wesseh,533,413379,686465,Grand Bassa,District # 3,Gaye Peter,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Foya Tengia,533,358826,915136,Lofa,Foya,Tengia,,,,1,2000,0,0,2000,1,250,0,0,0,0,250,0.3,0,0,8643.88475,606.8156178
+Settlement,Mission Town,533,635435.9362,486352.6722,Maryland,Harper,Rock Town,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Jenne Brown (A),532,272476.9151,779141.3785,Grand Cape Mount,Golakonneh,Darblo,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Chengeonin,532,370844,925801,Lofa,Foya,Luankollie,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Leaplay,532,572850,761851,Nimba,Buu-Yao,Nyor,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Kpeyee,532,507911,782987,Nimba,Leewehpea-Mahn,Sephein,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Tiasonnoh,532,495808,778352,Nimba,Meinpea-Mahn,Slappa,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,D-8 New Camp A,530,280195,747827,Grand Cape Mount,Garwula,Manobalah A,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Gwein,530,569525,685759,Grand Gedeh,Cavala,Blawo,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Troupoe,530,524727,768830,Nimba,Zoe-Gbao,Whepea,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Taryaken,530,630735,542182,River Gee,Nyenebo,Hewoken,,,,1,2000,0,0,2000,1,250,0,0,0,0,250,0.3,0,0,8643.88475,606.8156178
+Settlement,Division 6 Camp 6,529,655377,507227,Maryland,Pleebo/Sodoken,Gedetarbo,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Mango,529,302237.386,709910.101,Montserra,St. Paul River,Mango,,,,0,0,0,0,0,2,500,1,500,1,600,1600,0.3,0,0,0,3883.619954
+Settlement,Tuzon,528,582961,682310,Grand Gedeh,Cavala,Gborbo,,,,1,2000,0,0,2000,0,0,0,0,0,0,0,0.3,0,0,8643.88475,0
+Settlement,Dejila,528,503240,562147,Sinoe,Kpayan,Tobo,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Zulo,527,361334,779482,Bong,Fuamah,Zulo,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Fainutolee,527,423723.5123,738891.9918,Bong,Yeallequelleh,Garyea,,,,1,2000,0,0,2000,1,250,0,0,0,0,250,0.3,0,0,8643.88475,606.8156178
+Settlement,Dayzabah,527,420704,919713,Lofa,Voinjama,Bondi,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Gbaswen Mission,527,510948,587834,Sinoe,Juarzon,Krajlahson,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Koyah I,526,483607,800931.1174,Bong,Panta,Gahnmue,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Farvey,525,468500.4512,799092.0769,Bong,Zota,Gwilapolu,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Chenwrinken,525,593301,548169,Grand Kru,Gee,Tarken,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Pullah,525,650608.757,486767.6656,Maryland,Harper,Whole Graway,,,,1,2000,0,0,2000,0,0,0,0,0,0,0,0.3,0,0,8643.88475,0
+Settlement,Jlahzon,525,319337.1055,703450.0163,Montserra,Commonwealth,Lousana Township,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Banliguea,525,514563.3456,715873,Nimba,Doe,Gbear,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Sendin Tropa,523,483701,731288,Nimba,Yarwein Mehnsonnoh,Zehnla,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Nyenwolo,522,472237,760998,Bong,Kpaai,Waytuah,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Clotetee,522,660622,642214,Grand Gedeh,Glio-Twarbo,Chattan,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Gbeaken,522,635191.4293,520441.0392,Maryland,Karluway#1,Nearobo,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Buanplay,522,523153,769348,Nimba,Zoe-Gbao,Whepea,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Fa See Korma,521,262000,745789,Grand Cape Mount,Garwula,Manobalah A,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,BlackTom,521,322061,704809,Montserra,Careysburg,Careyburg City,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Blittuo,521,564350,785627,Nimba,Twan River,Lower-Gbei,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Gaopa,521,515234,762341,Nimba,Wee-Gbehyi-Mahn,Wee,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Sugar Hill,520,385349,747837,Bong,Salala,Kpartolee,,,,0,0,0,0,0,2,500,0,0,0,0,500,0.3,0,0,0,1213.631236
+Settlement,Wonde,520,244824,771415,Grand Cape Mount,Tewor,Passawe,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Porluma,520,377340,931970,Lofa,Foya,Waum,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Pobleh,520,505240,597828,Sinoe,Plahn Nyarn,Nyarn,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Joezonhn Town,518,388711.2523,651728.0314,Grand Bassa,Neekreen,Harlardsville,,,,0,0,0,0,0,5,1250,0,0,0,0,1250,0.3,0,0,0,3034.078089
+Settlement,Cehema,518,363736,902710,Lofa,Kolahun,Hassala,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Village,518,368359.8232,895119.352,Lofa,Kolahun,Lukasu,,,,0,0,0,0,0,2,500,0,0,0,0,500,0.3,0,0,0,1213.631236
+Settlement,Gwenimah,517,441568.0465,766674.0987,Bong,Suakoko,Suakoko,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Gwepolosue,517,350512.1691,732899.9374,Margibi,Kakata,Waymaquelleh,,,,0,0,0,0,0,2,500,0,0,0,0,500,0.3,0,0,0,1213.631236
+Settlement,Big Jay,517,621655,559512,Maryland,Gwelekpoken,Wantoken,,,,0,0,0,0,0,2,500,0,0,0,0,500,0.3,0,0,0,1213.631236
+Settlement,xxxxxxxxxx,516,366500.1713,740205.6102,Margibi,Kakata,Wiah,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Little Wlebo Mission Town New Town,516,640008.3272,492491.0825,Maryland,Harper,Rock Town,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Nyanawrinken Town,515,651858,573863,River Gee,Sarbo,Karyellibo,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Bobah,515,498078,558964,Sinoe,Greenville,Murrayville Township,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Barclayville,514,585365.6005,516763.3128,Grand Kru,Barclayville,Wakpeken Seator,,,,0,0,1,12500,12500,3,750,0,0,3,1800,2550,0.3,0,0,54024.27969,6189.519302
+Settlement,Division 44 Pinco Camp,514,350117.1484,697015.6094,Margibi,Firestone,Firestone,,,,0,0,0,0,0,6,1500,0,0,1,600,2100,0.3,0,0,0,5097.251189
+Settlement,Division 16 long Camp/School,513,345089.777,707651.1757,Margibi,Firestone,Firestone,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Goe,512,253772,776882,Grand Cape Mount,Tewor,Passawe,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Warploken,512,610584,572470,River Gee,Nyenawliken,Nyantuken,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Camp Israel,511,295709,816035,Grand Cape Mount,Porkpa,Sokpo,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Bobalor,511,240255.7259,764002.1151,Grand Cape Mount,Tewor,Sambola D,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Yookudi,511,654428,491664,Maryland,Harper,Whole Graway,,,,1,2000,0,0,2000,1,250,0,0,0,0,250,0.3,0,0,8643.88475,606.8156178
+Settlement,Zordee,509,302859,738306,Bomi,Klay,Tehr,,,,1,2000,0,0,2000,0,0,0,0,0,0,0,0.3,0,0,8643.88475,0
+Settlement,Gelengasiasu,509,389041,800863,Gbarpolu,Gounwolaila,Nwolaila,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Tanwea,509,571287,751373,Nimba,Buu-Yao,Frolay,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Banakpallah,509,498755,779712,Nimba,Meinpea-Mahn,Slappa,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Sergeant (New Town),509,567830,793295,Nimba,Twan River,Upper-Gbei,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Degei,508,371163,784735,Bong,Fuamah,Lorla,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Doe,508,438617,721825,Bong,Kokoyah,Quikon,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Gbondoi,508,429703,767369,Bong,Yeallequelleh,Zeansue,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Baboken,508,600254,584006,River Gee,Karforh,Cheboken,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Saw Mill,507,305215,767728,Gbarpolu,Gbarma,Gbarma,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Gbegbedu,507,427048.2572,929175.717,Lofa,Quardu Boundi,Quardu,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Sangarplay,506,535629,785636,Nimba,Gbor,Zor-2,,,,0,0,0,0,0,0,0,0,0,1,600,600,0.3,0,0,0,1456.357483
+Settlement,Miaplay Bonnah,506,532854,779332,Nimba,Zoe-Gbao,Zoe,,,,0,0,0,0,0,0,0,1,500,0,0,500,0.3,0,0,0,1213.631236
+Settlement,Lutisu Town Center,505,427584,906049,Lofa,Voinjama,Bondi,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Bazagizia,505,407996,923977,Lofa,Voinjama,Upper Workor,,,,1,2000,0,0,2000,1,250,0,0,0,0,250,0.3,0,0,8643.88475,606.8156178
+Settlement,Varney,504,290982,811414,Grand Cape Mount,Porkpa,Sokpo,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Youbor,504,665237,601417,River Gee,Glaro,Youbor,,,,1,2000,0,0,2000,1,250,0,0,0,0,250,0.3,0,0,8643.88475,606.8156178
+Settlement,Cepher,504,440271.3987,669460.3366,Rivercess,Jo River,Bour Tarr,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Sayewheh,503,468941,731702,Bong,Boinsen,Senwein,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Tikpah,503,452548,728297,Bong,Tukpahblee,Vehn,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Halipo,503,381333,916656,Lofa,Kolahun,Tahamba,,,,0,0,0,0,0,6,1500,1,500,1,600,2600,0.3,0,0,0,6310.882425
+Settlement,Wroulay,503,560682,749830,Nimba,Buu-Yao,Frolay,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Ganaglay,502,553304,812945,Nimba,Gbehlay-Geh,Zor,,,,0,0,0,0,0,1,250,0,0,1,600,850,0.3,0,0,0,2063.173101
+Settlement,Bamballa Town A,501,259780.4403,798755.0975,Grand Cape Mount,Porkpa,Kposo,,,,1,2000,0,0,2000,1,250,0,0,0,0,250,0.3,0,0,8643.88475,606.8156178
+Settlement,Gelema,501,370995,913188,Lofa,Foya,Luankollie,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Dubuzon,501,556652,734145,Nimba,Kparblee,Dubuzon,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Mecca,500,325596,755708,Bomi,Suehn Mecca,Upper Mec,,,,1,2000,0,0,2000,1,250,0,0,0,0,250,0.3,0,0,8643.88475,606.8156178
+Settlement,Macgill Farm,500,399907.3748,752489.8958,Bong,Salala,Konowolol,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Gbonyea,500,412424,786098,Bong,Sanoyeah,Menquelle,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Baliken,500,633189,659290,Grand Gedeh,Konobo,Upper Gbardru,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Sawtoken,500,621278,538429,Maryland,Gwelekpoken,Sikliken,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Andersonville,500,638287.644,518883.6126,Maryland,Karluway#2,Wlebo,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Mletontuo,500,533583,771324,Nimba,Boe & Quilla,Gosenter,,,,0,0,0,0,0,1,250,0,0,0,0,250,0.3,0,0,0,606.8156178
+Settlement,Duo,500,493599.3861,765731.909,Nimba,Meinpea-Mahn,Zehyee,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Wlegboken,500,609491,581701,River Gee,Gbeapo,Walkerken,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
+Settlement,Judu,500,524537,609512,Sinoe,Seekon,Tweedee,,,,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0
